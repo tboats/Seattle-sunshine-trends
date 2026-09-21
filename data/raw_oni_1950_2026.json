@@ -1,0 +1,5516 @@
+[
+  {
+    "season": "DJF",
+    "year": 1950,
+    "sst_total": 25.01,
+    "sst_anomaly": -1.32
+  },
+  {
+    "season": "JFM",
+    "year": 1950,
+    "sst_total": 25.36,
+    "sst_anomaly": -1.2
+  },
+  {
+    "season": "FMA",
+    "year": 1950,
+    "sst_total": 25.88,
+    "sst_anomaly": -1.12
+  },
+  {
+    "season": "MAM",
+    "year": 1950,
+    "sst_total": 26.24,
+    "sst_anomaly": -1.08
+  },
+  {
+    "season": "AMJ",
+    "year": 1950,
+    "sst_total": 26.35,
+    "sst_anomaly": -1.1
+  },
+  {
+    "season": "MJJ",
+    "year": 1950,
+    "sst_total": 26.32,
+    "sst_anomaly": -0.9
+  },
+  {
+    "season": "JJA",
+    "year": 1950,
+    "sst_total": 26.24,
+    "sst_anomaly": -0.62
+  },
+  {
+    "season": "JAS",
+    "year": 1950,
+    "sst_total": 25.94,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "ASO",
+    "year": 1950,
+    "sst_total": 25.76,
+    "sst_anomaly": -0.56
+  },
+  {
+    "season": "SON",
+    "year": 1950,
+    "sst_total": 25.6,
+    "sst_anomaly": -0.62
+  },
+  {
+    "season": "OND",
+    "year": 1950,
+    "sst_total": 25.55,
+    "sst_anomaly": -0.66
+  },
+  {
+    "season": "NDJ",
+    "year": 1950,
+    "sst_total": 25.41,
+    "sst_anomaly": -0.79
+  },
+  {
+    "season": "DJF",
+    "year": 1951,
+    "sst_total": 25.67,
+    "sst_anomaly": -0.66
+  },
+  {
+    "season": "JFM",
+    "year": 1951,
+    "sst_total": 26.2,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "FMA",
+    "year": 1951,
+    "sst_total": 26.96,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "MAM",
+    "year": 1951,
+    "sst_total": 27.48,
+    "sst_anomaly": 0.16
+  },
+  {
+    "season": "AMJ",
+    "year": 1951,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "MJJ",
+    "year": 1951,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "JJA",
+    "year": 1951,
+    "sst_total": 27.57,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "JAS",
+    "year": 1951,
+    "sst_total": 27.41,
+    "sst_anomaly": 0.9
+  },
+  {
+    "season": "ASO",
+    "year": 1951,
+    "sst_total": 27.34,
+    "sst_anomaly": 1.02
+  },
+  {
+    "season": "SON",
+    "year": 1951,
+    "sst_total": 27.25,
+    "sst_anomaly": 1.03
+  },
+  {
+    "season": "OND",
+    "year": 1951,
+    "sst_total": 27.18,
+    "sst_anomaly": 0.96
+  },
+  {
+    "season": "NDJ",
+    "year": 1951,
+    "sst_total": 26.91,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "DJF",
+    "year": 1952,
+    "sst_total": 26.86,
+    "sst_anomaly": 0.52
+  },
+  {
+    "season": "JFM",
+    "year": 1952,
+    "sst_total": 26.82,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "FMA",
+    "year": 1952,
+    "sst_total": 27.33,
+    "sst_anomaly": 0.33
+  },
+  {
+    "season": "MAM",
+    "year": 1952,
+    "sst_total": 27.5,
+    "sst_anomaly": 0.18
+  },
+  {
+    "season": "AMJ",
+    "year": 1952,
+    "sst_total": 27.38,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "MJJ",
+    "year": 1952,
+    "sst_total": 26.78,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "JJA",
+    "year": 1952,
+    "sst_total": 26.41,
+    "sst_anomaly": -0.45
+  },
+  {
+    "season": "JAS",
+    "year": 1952,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.2
+  },
+  {
+    "season": "ASO",
+    "year": 1952,
+    "sst_total": 26.35,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "SON",
+    "year": 1952,
+    "sst_total": 26.26,
+    "sst_anomaly": 0.04
+  },
+  {
+    "season": "OND",
+    "year": 1952,
+    "sst_total": 26.11,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "NDJ",
+    "year": 1952,
+    "sst_total": 26.25,
+    "sst_anomaly": 0.06
+  },
+  {
+    "season": "DJF",
+    "year": 1953,
+    "sst_total": 26.58,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "JFM",
+    "year": 1953,
+    "sst_total": 27.06,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "FMA",
+    "year": 1953,
+    "sst_total": 27.48,
+    "sst_anomaly": 0.48
+  },
+  {
+    "season": "MAM",
+    "year": 1953,
+    "sst_total": 27.88,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "AMJ",
+    "year": 1953,
+    "sst_total": 28.22,
+    "sst_anomaly": 0.77
+  },
+  {
+    "season": "MJJ",
+    "year": 1953,
+    "sst_total": 27.96,
+    "sst_anomaly": 0.74
+  },
+  {
+    "season": "JJA",
+    "year": 1953,
+    "sst_total": 27.49,
+    "sst_anomaly": 0.63
+  },
+  {
+    "season": "JAS",
+    "year": 1953,
+    "sst_total": 27.19,
+    "sst_anomaly": 0.68
+  },
+  {
+    "season": "ASO",
+    "year": 1953,
+    "sst_total": 26.91,
+    "sst_anomaly": 0.59
+  },
+  {
+    "season": "SON",
+    "year": 1953,
+    "sst_total": 27.0,
+    "sst_anomaly": 0.78
+  },
+  {
+    "season": "OND",
+    "year": 1953,
+    "sst_total": 26.74,
+    "sst_anomaly": 0.52
+  },
+  {
+    "season": "NDJ",
+    "year": 1953,
+    "sst_total": 26.76,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "DJF",
+    "year": 1954,
+    "sst_total": 26.74,
+    "sst_anomaly": 0.41
+  },
+  {
+    "season": "JFM",
+    "year": 1954,
+    "sst_total": 26.91,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "FMA",
+    "year": 1954,
+    "sst_total": 27.01,
+    "sst_anomaly": 0.01
+  },
+  {
+    "season": "MAM",
+    "year": 1954,
+    "sst_total": 27.04,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "AMJ",
+    "year": 1954,
+    "sst_total": 26.97,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "MJJ",
+    "year": 1954,
+    "sst_total": 26.74,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "JJA",
+    "year": 1954,
+    "sst_total": 26.18,
+    "sst_anomaly": -0.67
+  },
+  {
+    "season": "JAS",
+    "year": 1954,
+    "sst_total": 25.68,
+    "sst_anomaly": -0.83
+  },
+  {
+    "season": "ASO",
+    "year": 1954,
+    "sst_total": 25.58,
+    "sst_anomaly": -0.73
+  },
+  {
+    "season": "SON",
+    "year": 1954,
+    "sst_total": 25.7,
+    "sst_anomaly": -0.52
+  },
+  {
+    "season": "OND",
+    "year": 1954,
+    "sst_total": 25.82,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "NDJ",
+    "year": 1954,
+    "sst_total": 25.76,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "DJF",
+    "year": 1955,
+    "sst_total": 25.83,
+    "sst_anomaly": -0.5
+  },
+  {
+    "season": "JFM",
+    "year": 1955,
+    "sst_total": 26.08,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "FMA",
+    "year": 1955,
+    "sst_total": 26.42,
+    "sst_anomaly": -0.58
+  },
+  {
+    "season": "MAM",
+    "year": 1955,
+    "sst_total": 26.56,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "AMJ",
+    "year": 1955,
+    "sst_total": 26.67,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "MJJ",
+    "year": 1955,
+    "sst_total": 26.34,
+    "sst_anomaly": -0.88
+  },
+  {
+    "season": "JJA",
+    "year": 1955,
+    "sst_total": 26.13,
+    "sst_anomaly": -0.72
+  },
+  {
+    "season": "JAS",
+    "year": 1955,
+    "sst_total": 25.59,
+    "sst_anomaly": -0.92
+  },
+  {
+    "season": "ASO",
+    "year": 1955,
+    "sst_total": 25.21,
+    "sst_anomaly": -1.11
+  },
+  {
+    "season": "SON",
+    "year": 1955,
+    "sst_total": 24.78,
+    "sst_anomaly": -1.44
+  },
+  {
+    "season": "OND",
+    "year": 1955,
+    "sst_total": 24.63,
+    "sst_anomaly": -1.59
+  },
+  {
+    "season": "NDJ",
+    "year": 1955,
+    "sst_total": 24.73,
+    "sst_anomaly": -1.51
+  },
+  {
+    "season": "DJF",
+    "year": 1956,
+    "sst_total": 25.2,
+    "sst_anomaly": -1.17
+  },
+  {
+    "season": "JFM",
+    "year": 1956,
+    "sst_total": 25.82,
+    "sst_anomaly": -0.81
+  },
+  {
+    "season": "FMA",
+    "year": 1956,
+    "sst_total": 26.47,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "MAM",
+    "year": 1956,
+    "sst_total": 26.84,
+    "sst_anomaly": -0.51
+  },
+  {
+    "season": "AMJ",
+    "year": 1956,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.49
+  },
+  {
+    "season": "MJJ",
+    "year": 1956,
+    "sst_total": 26.81,
+    "sst_anomaly": -0.47
+  },
+  {
+    "season": "JJA",
+    "year": 1956,
+    "sst_total": 26.37,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "JAS",
+    "year": 1956,
+    "sst_total": 26.02,
+    "sst_anomaly": -0.52
+  },
+  {
+    "season": "ASO",
+    "year": 1956,
+    "sst_total": 25.9,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "SON",
+    "year": 1956,
+    "sst_total": 25.85,
+    "sst_anomaly": -0.39
+  },
+  {
+    "season": "OND",
+    "year": 1956,
+    "sst_total": 25.87,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "NDJ",
+    "year": 1956,
+    "sst_total": 25.87,
+    "sst_anomaly": -0.39
+  },
+  {
+    "season": "DJF",
+    "year": 1957,
+    "sst_total": 26.11,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "JFM",
+    "year": 1957,
+    "sst_total": 26.57,
+    "sst_anomaly": -0.06
+  },
+  {
+    "season": "FMA",
+    "year": 1957,
+    "sst_total": 27.3,
+    "sst_anomaly": 0.26
+  },
+  {
+    "season": "MAM",
+    "year": 1957,
+    "sst_total": 27.99,
+    "sst_anomaly": 0.63
+  },
+  {
+    "season": "AMJ",
+    "year": 1957,
+    "sst_total": 28.21,
+    "sst_anomaly": 0.72
+  },
+  {
+    "season": "MJJ",
+    "year": 1957,
+    "sst_total": 28.09,
+    "sst_anomaly": 0.82
+  },
+  {
+    "season": "JJA",
+    "year": 1957,
+    "sst_total": 27.88,
+    "sst_anomaly": 0.96
+  },
+  {
+    "season": "JAS",
+    "year": 1957,
+    "sst_total": 27.57,
+    "sst_anomaly": 1.03
+  },
+  {
+    "season": "ASO",
+    "year": 1957,
+    "sst_total": 27.45,
+    "sst_anomaly": 1.12
+  },
+  {
+    "season": "SON",
+    "year": 1957,
+    "sst_total": 27.38,
+    "sst_anomaly": 1.15
+  },
+  {
+    "season": "OND",
+    "year": 1957,
+    "sst_total": 27.63,
+    "sst_anomaly": 1.39
+  },
+  {
+    "season": "NDJ",
+    "year": 1957,
+    "sst_total": 27.87,
+    "sst_anomaly": 1.62
+  },
+  {
+    "season": "DJF",
+    "year": 1958,
+    "sst_total": 28.07,
+    "sst_anomaly": 1.69
+  },
+  {
+    "season": "JFM",
+    "year": 1958,
+    "sst_total": 28.21,
+    "sst_anomaly": 1.59
+  },
+  {
+    "season": "FMA",
+    "year": 1958,
+    "sst_total": 28.21,
+    "sst_anomaly": 1.17
+  },
+  {
+    "season": "MAM",
+    "year": 1958,
+    "sst_total": 28.2,
+    "sst_anomaly": 0.84
+  },
+  {
+    "season": "AMJ",
+    "year": 1958,
+    "sst_total": 28.06,
+    "sst_anomaly": 0.57
+  },
+  {
+    "season": "MJJ",
+    "year": 1958,
+    "sst_total": 27.77,
+    "sst_anomaly": 0.49
+  },
+  {
+    "season": "JJA",
+    "year": 1958,
+    "sst_total": 27.36,
+    "sst_anomaly": 0.43
+  },
+  {
+    "season": "JAS",
+    "year": 1958,
+    "sst_total": 26.86,
+    "sst_anomaly": 0.32
+  },
+  {
+    "season": "ASO",
+    "year": 1958,
+    "sst_total": 26.61,
+    "sst_anomaly": 0.28
+  },
+  {
+    "season": "SON",
+    "year": 1958,
+    "sst_total": 26.53,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "OND",
+    "year": 1958,
+    "sst_total": 26.6,
+    "sst_anomaly": 0.36
+  },
+  {
+    "season": "NDJ",
+    "year": 1958,
+    "sst_total": 26.82,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "DJF",
+    "year": 1959,
+    "sst_total": 26.99,
+    "sst_anomaly": 0.6
+  },
+  {
+    "season": "JFM",
+    "year": 1959,
+    "sst_total": 27.27,
+    "sst_anomaly": 0.64
+  },
+  {
+    "season": "FMA",
+    "year": 1959,
+    "sst_total": 27.51,
+    "sst_anomaly": 0.48
+  },
+  {
+    "season": "MAM",
+    "year": 1959,
+    "sst_total": 27.75,
+    "sst_anomaly": 0.39
+  },
+  {
+    "season": "AMJ",
+    "year": 1959,
+    "sst_total": 27.73,
+    "sst_anomaly": 0.24
+  },
+  {
+    "season": "MJJ",
+    "year": 1959,
+    "sst_total": 27.29,
+    "sst_anomaly": 0.02
+  },
+  {
+    "season": "JJA",
+    "year": 1959,
+    "sst_total": 26.74,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "JAS",
+    "year": 1959,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "ASO",
+    "year": 1959,
+    "sst_total": 26.29,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "SON",
+    "year": 1959,
+    "sst_total": 26.34,
+    "sst_anomaly": 0.11
+  },
+  {
+    "season": "OND",
+    "year": 1959,
+    "sst_total": 26.47,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "NDJ",
+    "year": 1959,
+    "sst_total": 26.4,
+    "sst_anomaly": 0.14
+  },
+  {
+    "season": "DJF",
+    "year": 1960,
+    "sst_total": 26.4,
+    "sst_anomaly": 0.02
+  },
+  {
+    "season": "JFM",
+    "year": 1960,
+    "sst_total": 26.65,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "FMA",
+    "year": 1960,
+    "sst_total": 27.1,
+    "sst_anomaly": 0.06
+  },
+  {
+    "season": "MAM",
+    "year": 1960,
+    "sst_total": 27.52,
+    "sst_anomaly": 0.17
+  },
+  {
+    "season": "AMJ",
+    "year": 1960,
+    "sst_total": 27.53,
+    "sst_anomaly": 0.04
+  },
+  {
+    "season": "MJJ",
+    "year": 1960,
+    "sst_total": 27.27,
+    "sst_anomaly": 0.0
+  },
+  {
+    "season": "JJA",
+    "year": 1960,
+    "sst_total": 26.93,
+    "sst_anomaly": 0.01
+  },
+  {
+    "season": "JAS",
+    "year": 1960,
+    "sst_total": 26.69,
+    "sst_anomaly": 0.15
+  },
+  {
+    "season": "ASO",
+    "year": 1960,
+    "sst_total": 26.52,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "SON",
+    "year": 1960,
+    "sst_total": 26.32,
+    "sst_anomaly": 0.08
+  },
+  {
+    "season": "OND",
+    "year": 1960,
+    "sst_total": 26.17,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "NDJ",
+    "year": 1960,
+    "sst_total": 26.16,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "DJF",
+    "year": 1961,
+    "sst_total": 26.34,
+    "sst_anomaly": 0.0
+  },
+  {
+    "season": "JFM",
+    "year": 1961,
+    "sst_total": 26.6,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "FMA",
+    "year": 1961,
+    "sst_total": 26.98,
+    "sst_anomaly": 0.01
+  },
+  {
+    "season": "MAM",
+    "year": 1961,
+    "sst_total": 27.33,
+    "sst_anomaly": 0.05
+  },
+  {
+    "season": "AMJ",
+    "year": 1961,
+    "sst_total": 27.62,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "MJJ",
+    "year": 1961,
+    "sst_total": 27.41,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "JJA",
+    "year": 1961,
+    "sst_total": 26.94,
+    "sst_anomaly": 0.08
+  },
+  {
+    "season": "JAS",
+    "year": 1961,
+    "sst_total": 26.32,
+    "sst_anomaly": -0.2
+  },
+  {
+    "season": "ASO",
+    "year": 1961,
+    "sst_total": 26.01,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "SON",
+    "year": 1961,
+    "sst_total": 26.02,
+    "sst_anomaly": -0.22
+  },
+  {
+    "season": "OND",
+    "year": 1961,
+    "sst_total": 26.09,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "NDJ",
+    "year": 1961,
+    "sst_total": 26.14,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "DJF",
+    "year": 1962,
+    "sst_total": 26.16,
+    "sst_anomaly": -0.16
+  },
+  {
+    "season": "JFM",
+    "year": 1962,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.17
+  },
+  {
+    "season": "FMA",
+    "year": 1962,
+    "sst_total": 26.83,
+    "sst_anomaly": -0.15
+  },
+  {
+    "season": "MAM",
+    "year": 1962,
+    "sst_total": 27.09,
+    "sst_anomaly": -0.2
+  },
+  {
+    "season": "AMJ",
+    "year": 1962,
+    "sst_total": 27.21,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "MJJ",
+    "year": 1962,
+    "sst_total": 27.06,
+    "sst_anomaly": -0.13
+  },
+  {
+    "season": "JJA",
+    "year": 1962,
+    "sst_total": 26.85,
+    "sst_anomaly": 0.0
+  },
+  {
+    "season": "JAS",
+    "year": 1962,
+    "sst_total": 26.42,
+    "sst_anomaly": -0.1
+  },
+  {
+    "season": "ASO",
+    "year": 1962,
+    "sst_total": 26.17,
+    "sst_anomaly": -0.16
+  },
+  {
+    "season": "SON",
+    "year": 1962,
+    "sst_total": 25.98,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "OND",
+    "year": 1962,
+    "sst_total": 25.95,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "NDJ",
+    "year": 1962,
+    "sst_total": 25.87,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "DJF",
+    "year": 1963,
+    "sst_total": 25.98,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "JFM",
+    "year": 1963,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.17
+  },
+  {
+    "season": "FMA",
+    "year": 1963,
+    "sst_total": 26.99,
+    "sst_anomaly": 0.01
+  },
+  {
+    "season": "MAM",
+    "year": 1963,
+    "sst_total": 27.41,
+    "sst_anomaly": 0.13
+  },
+  {
+    "season": "AMJ",
+    "year": 1963,
+    "sst_total": 27.52,
+    "sst_anomaly": 0.12
+  },
+  {
+    "season": "MJJ",
+    "year": 1963,
+    "sst_total": 27.64,
+    "sst_anomaly": 0.45
+  },
+  {
+    "season": "JJA",
+    "year": 1963,
+    "sst_total": 27.61,
+    "sst_anomaly": 0.76
+  },
+  {
+    "season": "JAS",
+    "year": 1963,
+    "sst_total": 27.61,
+    "sst_anomaly": 1.09
+  },
+  {
+    "season": "ASO",
+    "year": 1963,
+    "sst_total": 27.42,
+    "sst_anomaly": 1.09
+  },
+  {
+    "season": "SON",
+    "year": 1963,
+    "sst_total": 27.37,
+    "sst_anomaly": 1.13
+  },
+  {
+    "season": "OND",
+    "year": 1963,
+    "sst_total": 27.39,
+    "sst_anomaly": 1.19
+  },
+  {
+    "season": "NDJ",
+    "year": 1963,
+    "sst_total": 27.33,
+    "sst_anomaly": 1.13
+  },
+  {
+    "season": "DJF",
+    "year": 1964,
+    "sst_total": 27.26,
+    "sst_anomaly": 0.95
+  },
+  {
+    "season": "JFM",
+    "year": 1964,
+    "sst_total": 27.09,
+    "sst_anomaly": 0.52
+  },
+  {
+    "season": "FMA",
+    "year": 1964,
+    "sst_total": 27.04,
+    "sst_anomaly": 0.06
+  },
+  {
+    "season": "MAM",
+    "year": 1964,
+    "sst_total": 26.93,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "AMJ",
+    "year": 1964,
+    "sst_total": 26.8,
+    "sst_anomaly": -0.6
+  },
+  {
+    "season": "MJJ",
+    "year": 1964,
+    "sst_total": 26.53,
+    "sst_anomaly": -0.66
+  },
+  {
+    "season": "JJA",
+    "year": 1964,
+    "sst_total": 26.19,
+    "sst_anomaly": -0.67
+  },
+  {
+    "season": "JAS",
+    "year": 1964,
+    "sst_total": 25.82,
+    "sst_anomaly": -0.7
+  },
+  {
+    "season": "ASO",
+    "year": 1964,
+    "sst_total": 25.6,
+    "sst_anomaly": -0.72
+  },
+  {
+    "season": "SON",
+    "year": 1964,
+    "sst_total": 25.44,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "OND",
+    "year": 1964,
+    "sst_total": 25.41,
+    "sst_anomaly": -0.79
+  },
+  {
+    "season": "NDJ",
+    "year": 1964,
+    "sst_total": 25.45,
+    "sst_anomaly": -0.75
+  },
+  {
+    "season": "DJF",
+    "year": 1965,
+    "sst_total": 25.8,
+    "sst_anomaly": -0.51
+  },
+  {
+    "season": "JFM",
+    "year": 1965,
+    "sst_total": 26.32,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "FMA",
+    "year": 1965,
+    "sst_total": 26.93,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "MAM",
+    "year": 1965,
+    "sst_total": 27.45,
+    "sst_anomaly": 0.16
+  },
+  {
+    "season": "AMJ",
+    "year": 1965,
+    "sst_total": 27.86,
+    "sst_anomaly": 0.47
+  },
+  {
+    "season": "MJJ",
+    "year": 1965,
+    "sst_total": 27.98,
+    "sst_anomaly": 0.79
+  },
+  {
+    "season": "JJA",
+    "year": 1965,
+    "sst_total": 27.95,
+    "sst_anomaly": 1.1
+  },
+  {
+    "season": "JAS",
+    "year": 1965,
+    "sst_total": 27.79,
+    "sst_anomaly": 1.27
+  },
+  {
+    "season": "ASO",
+    "year": 1965,
+    "sst_total": 27.87,
+    "sst_anomaly": 1.55
+  },
+  {
+    "season": "SON",
+    "year": 1965,
+    "sst_total": 27.93,
+    "sst_anomaly": 1.7
+  },
+  {
+    "season": "OND",
+    "year": 1965,
+    "sst_total": 28.02,
+    "sst_anomaly": 1.82
+  },
+  {
+    "season": "NDJ",
+    "year": 1965,
+    "sst_total": 27.83,
+    "sst_anomaly": 1.6
+  },
+  {
+    "season": "DJF",
+    "year": 1966,
+    "sst_total": 27.61,
+    "sst_anomaly": 1.24
+  },
+  {
+    "season": "JFM",
+    "year": 1966,
+    "sst_total": 27.6,
+    "sst_anomaly": 0.95
+  },
+  {
+    "season": "FMA",
+    "year": 1966,
+    "sst_total": 27.79,
+    "sst_anomaly": 0.76
+  },
+  {
+    "season": "MAM",
+    "year": 1966,
+    "sst_total": 27.77,
+    "sst_anomaly": 0.43
+  },
+  {
+    "season": "AMJ",
+    "year": 1966,
+    "sst_total": 27.68,
+    "sst_anomaly": 0.24
+  },
+  {
+    "season": "MJJ",
+    "year": 1966,
+    "sst_total": 27.44,
+    "sst_anomaly": 0.18
+  },
+  {
+    "season": "JJA",
+    "year": 1966,
+    "sst_total": 27.18,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "JAS",
+    "year": 1966,
+    "sst_total": 26.73,
+    "sst_anomaly": 0.13
+  },
+  {
+    "season": "ASO",
+    "year": 1966,
+    "sst_total": 26.34,
+    "sst_anomaly": -0.09
+  },
+  {
+    "season": "SON",
+    "year": 1966,
+    "sst_total": 26.27,
+    "sst_anomaly": -0.12
+  },
+  {
+    "season": "OND",
+    "year": 1966,
+    "sst_total": 26.17,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "NDJ",
+    "year": 1966,
+    "sst_total": 26.02,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "DJF",
+    "year": 1967,
+    "sst_total": 25.97,
+    "sst_anomaly": -0.46
+  },
+  {
+    "season": "JFM",
+    "year": 1967,
+    "sst_total": 26.18,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "FMA",
+    "year": 1967,
+    "sst_total": 26.53,
+    "sst_anomaly": -0.5
+  },
+  {
+    "season": "MAM",
+    "year": 1967,
+    "sst_total": 26.97,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "AMJ",
+    "year": 1967,
+    "sst_total": 27.3,
+    "sst_anomaly": -0.15
+  },
+  {
+    "season": "MJJ",
+    "year": 1967,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.05
+  },
+  {
+    "season": "JJA",
+    "year": 1967,
+    "sst_total": 26.92,
+    "sst_anomaly": -0.02
+  },
+  {
+    "season": "JAS",
+    "year": 1967,
+    "sst_total": 26.33,
+    "sst_anomaly": -0.26
+  },
+  {
+    "season": "ASO",
+    "year": 1967,
+    "sst_total": 26.03,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "SON",
+    "year": 1967,
+    "sst_total": 25.99,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "OND",
+    "year": 1967,
+    "sst_total": 26.03,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "NDJ",
+    "year": 1967,
+    "sst_total": 25.95,
+    "sst_anomaly": -0.42
+  },
+  {
+    "season": "DJF",
+    "year": 1968,
+    "sst_total": 25.81,
+    "sst_anomaly": -0.62
+  },
+  {
+    "season": "JFM",
+    "year": 1968,
+    "sst_total": 25.92,
+    "sst_anomaly": -0.73
+  },
+  {
+    "season": "FMA",
+    "year": 1968,
+    "sst_total": 26.41,
+    "sst_anomaly": -0.63
+  },
+  {
+    "season": "MAM",
+    "year": 1968,
+    "sst_total": 26.85,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "AMJ",
+    "year": 1968,
+    "sst_total": 27.35,
+    "sst_anomaly": -0.1
+  },
+  {
+    "season": "MJJ",
+    "year": 1968,
+    "sst_total": 27.43,
+    "sst_anomaly": 0.17
+  },
+  {
+    "season": "JJA",
+    "year": 1968,
+    "sst_total": 27.37,
+    "sst_anomaly": 0.44
+  },
+  {
+    "season": "JAS",
+    "year": 1968,
+    "sst_total": 26.97,
+    "sst_anomaly": 0.38
+  },
+  {
+    "season": "ASO",
+    "year": 1968,
+    "sst_total": 26.78,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "SON",
+    "year": 1968,
+    "sst_total": 26.9,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "OND",
+    "year": 1968,
+    "sst_total": 27.06,
+    "sst_anomaly": 0.66
+  },
+  {
+    "season": "NDJ",
+    "year": 1968,
+    "sst_total": 27.3,
+    "sst_anomaly": 0.93
+  },
+  {
+    "season": "DJF",
+    "year": 1969,
+    "sst_total": 27.42,
+    "sst_anomaly": 0.98
+  },
+  {
+    "season": "JFM",
+    "year": 1969,
+    "sst_total": 27.63,
+    "sst_anomaly": 0.98
+  },
+  {
+    "season": "FMA",
+    "year": 1969,
+    "sst_total": 27.8,
+    "sst_anomaly": 0.77
+  },
+  {
+    "season": "MAM",
+    "year": 1969,
+    "sst_total": 28.02,
+    "sst_anomaly": 0.69
+  },
+  {
+    "season": "AMJ",
+    "year": 1969,
+    "sst_total": 28.06,
+    "sst_anomaly": 0.62
+  },
+  {
+    "season": "MJJ",
+    "year": 1969,
+    "sst_total": 27.74,
+    "sst_anomaly": 0.48
+  },
+  {
+    "season": "JJA",
+    "year": 1969,
+    "sst_total": 27.3,
+    "sst_anomaly": 0.37
+  },
+  {
+    "season": "JAS",
+    "year": 1969,
+    "sst_total": 27.0,
+    "sst_anomaly": 0.41
+  },
+  {
+    "season": "ASO",
+    "year": 1969,
+    "sst_total": 27.04,
+    "sst_anomaly": 0.61
+  },
+  {
+    "season": "SON",
+    "year": 1969,
+    "sst_total": 27.11,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "OND",
+    "year": 1969,
+    "sst_total": 27.21,
+    "sst_anomaly": 0.81
+  },
+  {
+    "season": "NDJ",
+    "year": 1969,
+    "sst_total": 27.08,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "DJF",
+    "year": 1970,
+    "sst_total": 26.89,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "JFM",
+    "year": 1970,
+    "sst_total": 26.89,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "FMA",
+    "year": 1970,
+    "sst_total": 27.27,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "MAM",
+    "year": 1970,
+    "sst_total": 27.61,
+    "sst_anomaly": 0.28
+  },
+  {
+    "season": "AMJ",
+    "year": 1970,
+    "sst_total": 27.56,
+    "sst_anomaly": 0.11
+  },
+  {
+    "season": "MJJ",
+    "year": 1970,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.26
+  },
+  {
+    "season": "JJA",
+    "year": 1970,
+    "sst_total": 26.38,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "JAS",
+    "year": 1970,
+    "sst_total": 25.88,
+    "sst_anomaly": -0.72
+  },
+  {
+    "season": "ASO",
+    "year": 1970,
+    "sst_total": 25.74,
+    "sst_anomaly": -0.69
+  },
+  {
+    "season": "SON",
+    "year": 1970,
+    "sst_total": 25.67,
+    "sst_anomaly": -0.72
+  },
+  {
+    "season": "OND",
+    "year": 1970,
+    "sst_total": 25.61,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "NDJ",
+    "year": 1970,
+    "sst_total": 25.29,
+    "sst_anomaly": -1.1
+  },
+  {
+    "season": "DJF",
+    "year": 1971,
+    "sst_total": 25.17,
+    "sst_anomaly": -1.29
+  },
+  {
+    "season": "JFM",
+    "year": 1971,
+    "sst_total": 25.34,
+    "sst_anomaly": -1.36
+  },
+  {
+    "season": "FMA",
+    "year": 1971,
+    "sst_total": 25.97,
+    "sst_anomaly": -1.08
+  },
+  {
+    "season": "MAM",
+    "year": 1971,
+    "sst_total": 26.55,
+    "sst_anomaly": -0.81
+  },
+  {
+    "season": "AMJ",
+    "year": 1971,
+    "sst_total": 26.76,
+    "sst_anomaly": -0.72
+  },
+  {
+    "season": "MJJ",
+    "year": 1971,
+    "sst_total": 26.62,
+    "sst_anomaly": -0.69
+  },
+  {
+    "season": "JJA",
+    "year": 1971,
+    "sst_total": 26.3,
+    "sst_anomaly": -0.68
+  },
+  {
+    "season": "JAS",
+    "year": 1971,
+    "sst_total": 26.05,
+    "sst_anomaly": -0.6
+  },
+  {
+    "season": "ASO",
+    "year": 1971,
+    "sst_total": 25.81,
+    "sst_anomaly": -0.68
+  },
+  {
+    "season": "SON",
+    "year": 1971,
+    "sst_total": 25.68,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "OND",
+    "year": 1971,
+    "sst_total": 25.59,
+    "sst_anomaly": -0.86
+  },
+  {
+    "season": "NDJ",
+    "year": 1971,
+    "sst_total": 25.65,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "DJF",
+    "year": 1972,
+    "sst_total": 25.92,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "JFM",
+    "year": 1972,
+    "sst_total": 26.42,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "FMA",
+    "year": 1972,
+    "sst_total": 27.09,
+    "sst_anomaly": 0.04
+  },
+  {
+    "season": "MAM",
+    "year": 1972,
+    "sst_total": 27.61,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "AMJ",
+    "year": 1972,
+    "sst_total": 27.96,
+    "sst_anomaly": 0.48
+  },
+  {
+    "season": "MJJ",
+    "year": 1972,
+    "sst_total": 28.0,
+    "sst_anomaly": 0.7
+  },
+  {
+    "season": "JJA",
+    "year": 1972,
+    "sst_total": 27.98,
+    "sst_anomaly": 1.0
+  },
+  {
+    "season": "JAS",
+    "year": 1972,
+    "sst_total": 27.91,
+    "sst_anomaly": 1.26
+  },
+  {
+    "season": "ASO",
+    "year": 1972,
+    "sst_total": 27.98,
+    "sst_anomaly": 1.49
+  },
+  {
+    "season": "SON",
+    "year": 1972,
+    "sst_total": 28.14,
+    "sst_anomaly": 1.69
+  },
+  {
+    "season": "OND",
+    "year": 1972,
+    "sst_total": 28.3,
+    "sst_anomaly": 1.84
+  },
+  {
+    "season": "NDJ",
+    "year": 1972,
+    "sst_total": 28.2,
+    "sst_anomaly": 1.77
+  },
+  {
+    "season": "DJF",
+    "year": 1973,
+    "sst_total": 28.03,
+    "sst_anomaly": 1.55
+  },
+  {
+    "season": "JFM",
+    "year": 1973,
+    "sst_total": 27.82,
+    "sst_anomaly": 1.13
+  },
+  {
+    "season": "FMA",
+    "year": 1973,
+    "sst_total": 27.61,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "MAM",
+    "year": 1973,
+    "sst_total": 27.33,
+    "sst_anomaly": -0.03
+  },
+  {
+    "season": "AMJ",
+    "year": 1973,
+    "sst_total": 26.97,
+    "sst_anomaly": -0.51
+  },
+  {
+    "season": "MJJ",
+    "year": 1973,
+    "sst_total": 26.51,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "JJA",
+    "year": 1973,
+    "sst_total": 25.99,
+    "sst_anomaly": -0.99
+  },
+  {
+    "season": "JAS",
+    "year": 1973,
+    "sst_total": 25.54,
+    "sst_anomaly": -1.11
+  },
+  {
+    "season": "ASO",
+    "year": 1973,
+    "sst_total": 25.23,
+    "sst_anomaly": -1.26
+  },
+  {
+    "season": "SON",
+    "year": 1973,
+    "sst_total": 24.87,
+    "sst_anomaly": -1.58
+  },
+  {
+    "season": "OND",
+    "year": 1973,
+    "sst_total": 24.57,
+    "sst_anomaly": -1.89
+  },
+  {
+    "season": "NDJ",
+    "year": 1973,
+    "sst_total": 24.39,
+    "sst_anomaly": -2.04
+  },
+  {
+    "season": "DJF",
+    "year": 1974,
+    "sst_total": 24.61,
+    "sst_anomaly": -1.87
+  },
+  {
+    "season": "JFM",
+    "year": 1974,
+    "sst_total": 25.1,
+    "sst_anomaly": -1.59
+  },
+  {
+    "season": "FMA",
+    "year": 1974,
+    "sst_total": 25.82,
+    "sst_anomaly": -1.24
+  },
+  {
+    "season": "MAM",
+    "year": 1974,
+    "sst_total": 26.37,
+    "sst_anomaly": -0.99
+  },
+  {
+    "season": "AMJ",
+    "year": 1974,
+    "sst_total": 26.77,
+    "sst_anomaly": -0.71
+  },
+  {
+    "season": "MJJ",
+    "year": 1974,
+    "sst_total": 26.67,
+    "sst_anomaly": -0.64
+  },
+  {
+    "season": "JJA",
+    "year": 1974,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.46
+  },
+  {
+    "season": "JAS",
+    "year": 1974,
+    "sst_total": 26.25,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "ASO",
+    "year": 1974,
+    "sst_total": 26.02,
+    "sst_anomaly": -0.47
+  },
+  {
+    "season": "SON",
+    "year": 1974,
+    "sst_total": 25.76,
+    "sst_anomaly": -0.69
+  },
+  {
+    "season": "OND",
+    "year": 1974,
+    "sst_total": 25.57,
+    "sst_anomaly": -0.88
+  },
+  {
+    "season": "NDJ",
+    "year": 1974,
+    "sst_total": 25.72,
+    "sst_anomaly": -0.71
+  },
+  {
+    "season": "DJF",
+    "year": 1975,
+    "sst_total": 25.92,
+    "sst_anomaly": -0.56
+  },
+  {
+    "season": "JFM",
+    "year": 1975,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "FMA",
+    "year": 1975,
+    "sst_total": 26.44,
+    "sst_anomaly": -0.61
+  },
+  {
+    "season": "MAM",
+    "year": 1975,
+    "sst_total": 26.7,
+    "sst_anomaly": -0.66
+  },
+  {
+    "season": "AMJ",
+    "year": 1975,
+    "sst_total": 26.68,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "MJJ",
+    "year": 1975,
+    "sst_total": 26.39,
+    "sst_anomaly": -0.92
+  },
+  {
+    "season": "JJA",
+    "year": 1975,
+    "sst_total": 25.9,
+    "sst_anomaly": -1.08
+  },
+  {
+    "season": "JAS",
+    "year": 1975,
+    "sst_total": 25.54,
+    "sst_anomaly": -1.12
+  },
+  {
+    "season": "ASO",
+    "year": 1975,
+    "sst_total": 25.2,
+    "sst_anomaly": -1.29
+  },
+  {
+    "season": "SON",
+    "year": 1975,
+    "sst_total": 25.14,
+    "sst_anomaly": -1.32
+  },
+  {
+    "season": "OND",
+    "year": 1975,
+    "sst_total": 24.98,
+    "sst_anomaly": -1.47
+  },
+  {
+    "season": "NDJ",
+    "year": 1975,
+    "sst_total": 24.84,
+    "sst_anomaly": -1.58
+  },
+  {
+    "season": "DJF",
+    "year": 1976,
+    "sst_total": 24.98,
+    "sst_anomaly": -1.49
+  },
+  {
+    "season": "JFM",
+    "year": 1976,
+    "sst_total": 25.55,
+    "sst_anomaly": -1.11
+  },
+  {
+    "season": "FMA",
+    "year": 1976,
+    "sst_total": 26.37,
+    "sst_anomaly": -0.65
+  },
+  {
+    "season": "MAM",
+    "year": 1976,
+    "sst_total": 26.87,
+    "sst_anomaly": -0.45
+  },
+  {
+    "season": "AMJ",
+    "year": 1976,
+    "sst_total": 27.21,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "MJJ",
+    "year": 1976,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.0
+  },
+  {
+    "season": "JJA",
+    "year": 1976,
+    "sst_total": 27.21,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "JAS",
+    "year": 1976,
+    "sst_total": 27.09,
+    "sst_anomaly": 0.4
+  },
+  {
+    "season": "ASO",
+    "year": 1976,
+    "sst_total": 27.13,
+    "sst_anomaly": 0.6
+  },
+  {
+    "season": "SON",
+    "year": 1976,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.79
+  },
+  {
+    "season": "OND",
+    "year": 1976,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.81
+  },
+  {
+    "season": "NDJ",
+    "year": 1976,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.84
+  },
+  {
+    "season": "DJF",
+    "year": 1977,
+    "sst_total": 27.19,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "JFM",
+    "year": 1977,
+    "sst_total": 27.33,
+    "sst_anomaly": 0.66
+  },
+  {
+    "season": "FMA",
+    "year": 1977,
+    "sst_total": 27.35,
+    "sst_anomaly": 0.33
+  },
+  {
+    "season": "MAM",
+    "year": 1977,
+    "sst_total": 27.58,
+    "sst_anomaly": 0.26
+  },
+  {
+    "season": "AMJ",
+    "year": 1977,
+    "sst_total": 27.7,
+    "sst_anomaly": 0.26
+  },
+  {
+    "season": "MJJ",
+    "year": 1977,
+    "sst_total": 27.75,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "JJA",
+    "year": 1977,
+    "sst_total": 27.37,
+    "sst_anomaly": 0.39
+  },
+  {
+    "season": "JAS",
+    "year": 1977,
+    "sst_total": 27.04,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "ASO",
+    "year": 1977,
+    "sst_total": 26.97,
+    "sst_anomaly": 0.45
+  },
+  {
+    "season": "SON",
+    "year": 1977,
+    "sst_total": 27.17,
+    "sst_anomaly": 0.68
+  },
+  {
+    "season": "OND",
+    "year": 1977,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.84
+  },
+  {
+    "season": "NDJ",
+    "year": 1977,
+    "sst_total": 27.25,
+    "sst_anomaly": 0.82
+  },
+  {
+    "season": "DJF",
+    "year": 1978,
+    "sst_total": 27.18,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "JFM",
+    "year": 1978,
+    "sst_total": 27.19,
+    "sst_anomaly": 0.52
+  },
+  {
+    "season": "FMA",
+    "year": 1978,
+    "sst_total": 27.19,
+    "sst_anomaly": 0.17
+  },
+  {
+    "season": "MAM",
+    "year": 1978,
+    "sst_total": 27.26,
+    "sst_anomaly": -0.06
+  },
+  {
+    "season": "AMJ",
+    "year": 1978,
+    "sst_total": 27.17,
+    "sst_anomaly": -0.28
+  },
+  {
+    "season": "MJJ",
+    "year": 1978,
+    "sst_total": 27.05,
+    "sst_anomaly": -0.24
+  },
+  {
+    "season": "JJA",
+    "year": 1978,
+    "sst_total": 26.61,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "JAS",
+    "year": 1978,
+    "sst_total": 26.32,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "ASO",
+    "year": 1978,
+    "sst_total": 26.08,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "SON",
+    "year": 1978,
+    "sst_total": 26.22,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "OND",
+    "year": 1978,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "NDJ",
+    "year": 1978,
+    "sst_total": 26.54,
+    "sst_anomaly": 0.11
+  },
+  {
+    "season": "DJF",
+    "year": 1979,
+    "sst_total": 26.67,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "JFM",
+    "year": 1979,
+    "sst_total": 26.88,
+    "sst_anomaly": 0.21
+  },
+  {
+    "season": "FMA",
+    "year": 1979,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.29
+  },
+  {
+    "season": "MAM",
+    "year": 1979,
+    "sst_total": 27.64,
+    "sst_anomaly": 0.32
+  },
+  {
+    "season": "AMJ",
+    "year": 1979,
+    "sst_total": 27.73,
+    "sst_anomaly": 0.29
+  },
+  {
+    "season": "MJJ",
+    "year": 1979,
+    "sst_total": 27.43,
+    "sst_anomaly": 0.14
+  },
+  {
+    "season": "JJA",
+    "year": 1979,
+    "sst_total": 27.07,
+    "sst_anomaly": 0.09
+  },
+  {
+    "season": "JAS",
+    "year": 1979,
+    "sst_total": 26.91,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "ASO",
+    "year": 1979,
+    "sst_total": 26.86,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "SON",
+    "year": 1979,
+    "sst_total": 26.96,
+    "sst_anomaly": 0.47
+  },
+  {
+    "season": "OND",
+    "year": 1979,
+    "sst_total": 26.97,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "NDJ",
+    "year": 1979,
+    "sst_total": 27.07,
+    "sst_anomaly": 0.64
+  },
+  {
+    "season": "DJF",
+    "year": 1980,
+    "sst_total": 27.09,
+    "sst_anomaly": 0.62
+  },
+  {
+    "season": "JFM",
+    "year": 1980,
+    "sst_total": 27.14,
+    "sst_anomaly": 0.47
+  },
+  {
+    "season": "FMA",
+    "year": 1980,
+    "sst_total": 27.37,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "MAM",
+    "year": 1980,
+    "sst_total": 27.67,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "AMJ",
+    "year": 1980,
+    "sst_total": 27.9,
+    "sst_anomaly": 0.45
+  },
+  {
+    "season": "MJJ",
+    "year": 1980,
+    "sst_total": 27.68,
+    "sst_anomaly": 0.4
+  },
+  {
+    "season": "JJA",
+    "year": 1980,
+    "sst_total": 27.16,
+    "sst_anomaly": 0.18
+  },
+  {
+    "season": "JAS",
+    "year": 1980,
+    "sst_total": 26.62,
+    "sst_anomaly": -0.06
+  },
+  {
+    "season": "ASO",
+    "year": 1980,
+    "sst_total": 26.36,
+    "sst_anomaly": -0.17
+  },
+  {
+    "season": "SON",
+    "year": 1980,
+    "sst_total": 26.42,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "OND",
+    "year": 1980,
+    "sst_total": 26.55,
+    "sst_anomaly": 0.08
+  },
+  {
+    "season": "NDJ",
+    "year": 1980,
+    "sst_total": 26.44,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "DJF",
+    "year": 1981,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "JFM",
+    "year": 1981,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.42
+  },
+  {
+    "season": "FMA",
+    "year": 1981,
+    "sst_total": 26.76,
+    "sst_anomaly": -0.41
+  },
+  {
+    "season": "MAM",
+    "year": 1981,
+    "sst_total": 27.21,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "AMJ",
+    "year": 1981,
+    "sst_total": 27.3,
+    "sst_anomaly": -0.28
+  },
+  {
+    "season": "MJJ",
+    "year": 1981,
+    "sst_total": 27.12,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "JJA",
+    "year": 1981,
+    "sst_total": 26.77,
+    "sst_anomaly": -0.28
+  },
+  {
+    "season": "JAS",
+    "year": 1981,
+    "sst_total": 26.51,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "ASO",
+    "year": 1981,
+    "sst_total": 26.49,
+    "sst_anomaly": -0.08
+  },
+  {
+    "season": "SON",
+    "year": 1981,
+    "sst_total": 26.38,
+    "sst_anomaly": -0.16
+  },
+  {
+    "season": "OND",
+    "year": 1981,
+    "sst_total": 26.34,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "NDJ",
+    "year": 1981,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.14
+  },
+  {
+    "season": "DJF",
+    "year": 1982,
+    "sst_total": 26.55,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "JFM",
+    "year": 1982,
+    "sst_total": 26.83,
+    "sst_anomaly": 0.02
+  },
+  {
+    "season": "FMA",
+    "year": 1982,
+    "sst_total": 27.23,
+    "sst_anomaly": 0.07
+  },
+  {
+    "season": "MAM",
+    "year": 1982,
+    "sst_total": 27.82,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "AMJ",
+    "year": 1982,
+    "sst_total": 28.23,
+    "sst_anomaly": 0.65
+  },
+  {
+    "season": "MJJ",
+    "year": 1982,
+    "sst_total": 28.12,
+    "sst_anomaly": 0.73
+  },
+  {
+    "season": "JJA",
+    "year": 1982,
+    "sst_total": 27.82,
+    "sst_anomaly": 0.78
+  },
+  {
+    "season": "JAS",
+    "year": 1982,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.99
+  },
+  {
+    "season": "ASO",
+    "year": 1982,
+    "sst_total": 28.02,
+    "sst_anomaly": 1.45
+  },
+  {
+    "season": "SON",
+    "year": 1982,
+    "sst_total": 28.36,
+    "sst_anomaly": 1.82
+  },
+  {
+    "season": "OND",
+    "year": 1982,
+    "sst_total": 28.56,
+    "sst_anomaly": 2.03
+  },
+  {
+    "season": "NDJ",
+    "year": 1982,
+    "sst_total": 28.66,
+    "sst_anomaly": 2.12
+  },
+  {
+    "season": "DJF",
+    "year": 1983,
+    "sst_total": 28.74,
+    "sst_anomaly": 2.14
+  },
+  {
+    "season": "JFM",
+    "year": 1983,
+    "sst_total": 28.73,
+    "sst_anomaly": 1.91
+  },
+  {
+    "season": "FMA",
+    "year": 1983,
+    "sst_total": 28.69,
+    "sst_anomaly": 1.52
+  },
+  {
+    "season": "MAM",
+    "year": 1983,
+    "sst_total": 28.7,
+    "sst_anomaly": 1.23
+  },
+  {
+    "season": "AMJ",
+    "year": 1983,
+    "sst_total": 28.53,
+    "sst_anomaly": 0.95
+  },
+  {
+    "season": "MJJ",
+    "year": 1983,
+    "sst_total": 28.01,
+    "sst_anomaly": 0.62
+  },
+  {
+    "season": "JJA",
+    "year": 1983,
+    "sst_total": 27.29,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "JAS",
+    "year": 1983,
+    "sst_total": 26.67,
+    "sst_anomaly": -0.06
+  },
+  {
+    "season": "ASO",
+    "year": 1983,
+    "sst_total": 26.14,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "SON",
+    "year": 1983,
+    "sst_total": 25.78,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "OND",
+    "year": 1983,
+    "sst_total": 25.56,
+    "sst_anomaly": -0.96
+  },
+  {
+    "season": "NDJ",
+    "year": 1983,
+    "sst_total": 25.65,
+    "sst_anomaly": -0.89
+  },
+  {
+    "season": "DJF",
+    "year": 1984,
+    "sst_total": 25.97,
+    "sst_anomaly": -0.63
+  },
+  {
+    "season": "JFM",
+    "year": 1984,
+    "sst_total": 26.3,
+    "sst_anomaly": -0.51
+  },
+  {
+    "season": "FMA",
+    "year": 1984,
+    "sst_total": 26.78,
+    "sst_anomaly": -0.38
+  },
+  {
+    "season": "MAM",
+    "year": 1984,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.47
+  },
+  {
+    "season": "AMJ",
+    "year": 1984,
+    "sst_total": 27.04,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "MJJ",
+    "year": 1984,
+    "sst_total": 26.87,
+    "sst_anomaly": -0.52
+  },
+  {
+    "season": "JJA",
+    "year": 1984,
+    "sst_total": 26.65,
+    "sst_anomaly": -0.39
+  },
+  {
+    "season": "JAS",
+    "year": 1984,
+    "sst_total": 26.51,
+    "sst_anomaly": -0.22
+  },
+  {
+    "season": "ASO",
+    "year": 1984,
+    "sst_total": 26.25,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "SON",
+    "year": 1984,
+    "sst_total": 25.92,
+    "sst_anomaly": -0.62
+  },
+  {
+    "season": "OND",
+    "year": 1984,
+    "sst_total": 25.57,
+    "sst_anomaly": -0.95
+  },
+  {
+    "season": "NDJ",
+    "year": 1984,
+    "sst_total": 25.48,
+    "sst_anomaly": -1.06
+  },
+  {
+    "season": "DJF",
+    "year": 1985,
+    "sst_total": 25.59,
+    "sst_anomaly": -1.01
+  },
+  {
+    "season": "JFM",
+    "year": 1985,
+    "sst_total": 25.95,
+    "sst_anomaly": -0.86
+  },
+  {
+    "season": "FMA",
+    "year": 1985,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.85
+  },
+  {
+    "season": "MAM",
+    "year": 1985,
+    "sst_total": 26.67,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "AMJ",
+    "year": 1985,
+    "sst_total": 26.8,
+    "sst_anomaly": -0.79
+  },
+  {
+    "season": "MJJ",
+    "year": 1985,
+    "sst_total": 26.79,
+    "sst_anomaly": -0.6
+  },
+  {
+    "season": "JJA",
+    "year": 1985,
+    "sst_total": 26.6,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "JAS",
+    "year": 1985,
+    "sst_total": 26.41,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "ASO",
+    "year": 1985,
+    "sst_total": 26.26,
+    "sst_anomaly": -0.31
+  },
+  {
+    "season": "SON",
+    "year": 1985,
+    "sst_total": 26.24,
+    "sst_anomaly": -0.3
+  },
+  {
+    "season": "OND",
+    "year": 1985,
+    "sst_total": 26.25,
+    "sst_anomaly": -0.28
+  },
+  {
+    "season": "NDJ",
+    "year": 1985,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "DJF",
+    "year": 1986,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "JFM",
+    "year": 1986,
+    "sst_total": 26.38,
+    "sst_anomaly": -0.38
+  },
+  {
+    "season": "FMA",
+    "year": 1986,
+    "sst_total": 26.89,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "MAM",
+    "year": 1986,
+    "sst_total": 27.31,
+    "sst_anomaly": -0.17
+  },
+  {
+    "season": "AMJ",
+    "year": 1986,
+    "sst_total": 27.5,
+    "sst_anomaly": -0.09
+  },
+  {
+    "season": "MJJ",
+    "year": 1986,
+    "sst_total": 27.42,
+    "sst_anomaly": 0.02
+  },
+  {
+    "season": "JJA",
+    "year": 1986,
+    "sst_total": 27.29,
+    "sst_anomaly": 0.24
+  },
+  {
+    "season": "JAS",
+    "year": 1986,
+    "sst_total": 27.22,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "ASO",
+    "year": 1986,
+    "sst_total": 27.24,
+    "sst_anomaly": 0.64
+  },
+  {
+    "season": "SON",
+    "year": 1986,
+    "sst_total": 27.42,
+    "sst_anomaly": 0.86
+  },
+  {
+    "season": "OND",
+    "year": 1986,
+    "sst_total": 27.57,
+    "sst_anomaly": 1.06
+  },
+  {
+    "season": "NDJ",
+    "year": 1986,
+    "sst_total": 27.69,
+    "sst_anomaly": 1.21
+  },
+  {
+    "season": "DJF",
+    "year": 1987,
+    "sst_total": 27.72,
+    "sst_anomaly": 1.18
+  },
+  {
+    "season": "JFM",
+    "year": 1987,
+    "sst_total": 27.89,
+    "sst_anomaly": 1.13
+  },
+  {
+    "season": "FMA",
+    "year": 1987,
+    "sst_total": 28.16,
+    "sst_anomaly": 1.02
+  },
+  {
+    "season": "MAM",
+    "year": 1987,
+    "sst_total": 28.42,
+    "sst_anomaly": 0.94
+  },
+  {
+    "season": "AMJ",
+    "year": 1987,
+    "sst_total": 28.53,
+    "sst_anomaly": 0.95
+  },
+  {
+    "season": "MJJ",
+    "year": 1987,
+    "sst_total": 28.51,
+    "sst_anomaly": 1.11
+  },
+  {
+    "season": "JJA",
+    "year": 1987,
+    "sst_total": 28.35,
+    "sst_anomaly": 1.3
+  },
+  {
+    "season": "JAS",
+    "year": 1987,
+    "sst_total": 28.23,
+    "sst_anomaly": 1.46
+  },
+  {
+    "season": "ASO",
+    "year": 1987,
+    "sst_total": 28.1,
+    "sst_anomaly": 1.49
+  },
+  {
+    "season": "SON",
+    "year": 1987,
+    "sst_total": 27.97,
+    "sst_anomaly": 1.41
+  },
+  {
+    "season": "OND",
+    "year": 1987,
+    "sst_total": 27.72,
+    "sst_anomaly": 1.2
+  },
+  {
+    "season": "NDJ",
+    "year": 1987,
+    "sst_total": 27.49,
+    "sst_anomaly": 1.0
+  },
+  {
+    "season": "DJF",
+    "year": 1988,
+    "sst_total": 27.17,
+    "sst_anomaly": 0.63
+  },
+  {
+    "season": "JFM",
+    "year": 1988,
+    "sst_total": 27.13,
+    "sst_anomaly": 0.37
+  },
+  {
+    "season": "FMA",
+    "year": 1988,
+    "sst_total": 27.11,
+    "sst_anomaly": -0.03
+  },
+  {
+    "season": "MAM",
+    "year": 1988,
+    "sst_total": 27.03,
+    "sst_anomaly": -0.45
+  },
+  {
+    "season": "AMJ",
+    "year": 1988,
+    "sst_total": 26.6,
+    "sst_anomaly": -0.99
+  },
+  {
+    "season": "MJJ",
+    "year": 1988,
+    "sst_total": 26.09,
+    "sst_anomaly": -1.3
+  },
+  {
+    "season": "JJA",
+    "year": 1988,
+    "sst_total": 25.75,
+    "sst_anomaly": -1.3
+  },
+  {
+    "season": "JAS",
+    "year": 1988,
+    "sst_total": 25.63,
+    "sst_anomaly": -1.14
+  },
+  {
+    "season": "ASO",
+    "year": 1988,
+    "sst_total": 25.34,
+    "sst_anomaly": -1.27
+  },
+  {
+    "season": "SON",
+    "year": 1988,
+    "sst_total": 25.01,
+    "sst_anomaly": -1.54
+  },
+  {
+    "season": "OND",
+    "year": 1988,
+    "sst_total": 24.7,
+    "sst_anomaly": -1.81
+  },
+  {
+    "season": "NDJ",
+    "year": 1988,
+    "sst_total": 24.64,
+    "sst_anomaly": -1.85
+  },
+  {
+    "season": "DJF",
+    "year": 1989,
+    "sst_total": 24.91,
+    "sst_anomaly": -1.64
+  },
+  {
+    "season": "JFM",
+    "year": 1989,
+    "sst_total": 25.39,
+    "sst_anomaly": -1.38
+  },
+  {
+    "season": "FMA",
+    "year": 1989,
+    "sst_total": 26.05,
+    "sst_anomaly": -1.09
+  },
+  {
+    "season": "MAM",
+    "year": 1989,
+    "sst_total": 26.63,
+    "sst_anomaly": -0.85
+  },
+  {
+    "season": "AMJ",
+    "year": 1989,
+    "sst_total": 26.98,
+    "sst_anomaly": -0.61
+  },
+  {
+    "season": "MJJ",
+    "year": 1989,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "JJA",
+    "year": 1989,
+    "sst_total": 26.68,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "JAS",
+    "year": 1989,
+    "sst_total": 26.41,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "ASO",
+    "year": 1989,
+    "sst_total": 26.28,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "SON",
+    "year": 1989,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "OND",
+    "year": 1989,
+    "sst_total": 26.39,
+    "sst_anomaly": -0.12
+  },
+  {
+    "season": "NDJ",
+    "year": 1989,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "DJF",
+    "year": 1990,
+    "sst_total": 26.73,
+    "sst_anomaly": 0.18
+  },
+  {
+    "season": "JFM",
+    "year": 1990,
+    "sst_total": 26.95,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "FMA",
+    "year": 1990,
+    "sst_total": 27.44,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "MAM",
+    "year": 1990,
+    "sst_total": 27.75,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "AMJ",
+    "year": 1990,
+    "sst_total": 27.84,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "MJJ",
+    "year": 1990,
+    "sst_total": 27.65,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "JJA",
+    "year": 1990,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.26
+  },
+  {
+    "season": "JAS",
+    "year": 1990,
+    "sst_total": 27.08,
+    "sst_anomaly": 0.32
+  },
+  {
+    "season": "ASO",
+    "year": 1990,
+    "sst_total": 26.92,
+    "sst_anomaly": 0.31
+  },
+  {
+    "season": "SON",
+    "year": 1990,
+    "sst_total": 26.83,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "OND",
+    "year": 1990,
+    "sst_total": 26.82,
+    "sst_anomaly": 0.31
+  },
+  {
+    "season": "NDJ",
+    "year": 1990,
+    "sst_total": 26.88,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "DJF",
+    "year": 1991,
+    "sst_total": 26.99,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "JFM",
+    "year": 1991,
+    "sst_total": 27.16,
+    "sst_anomaly": 0.26
+  },
+  {
+    "season": "FMA",
+    "year": 1991,
+    "sst_total": 27.5,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "MAM",
+    "year": 1991,
+    "sst_total": 27.9,
+    "sst_anomaly": 0.29
+  },
+  {
+    "season": "AMJ",
+    "year": 1991,
+    "sst_total": 28.21,
+    "sst_anomaly": 0.49
+  },
+  {
+    "season": "MJJ",
+    "year": 1991,
+    "sst_total": 28.18,
+    "sst_anomaly": 0.63
+  },
+  {
+    "season": "JJA",
+    "year": 1991,
+    "sst_total": 27.97,
+    "sst_anomaly": 0.77
+  },
+  {
+    "season": "JAS",
+    "year": 1991,
+    "sst_total": 27.6,
+    "sst_anomaly": 0.67
+  },
+  {
+    "season": "ASO",
+    "year": 1991,
+    "sst_total": 27.49,
+    "sst_anomaly": 0.72
+  },
+  {
+    "season": "SON",
+    "year": 1991,
+    "sst_total": 27.57,
+    "sst_anomaly": 0.83
+  },
+  {
+    "season": "OND",
+    "year": 1991,
+    "sst_total": 27.89,
+    "sst_anomaly": 1.18
+  },
+  {
+    "season": "NDJ",
+    "year": 1991,
+    "sst_total": 28.09,
+    "sst_anomaly": 1.43
+  },
+  {
+    "season": "DJF",
+    "year": 1992,
+    "sst_total": 28.24,
+    "sst_anomaly": 1.54
+  },
+  {
+    "season": "JFM",
+    "year": 1992,
+    "sst_total": 28.4,
+    "sst_anomaly": 1.5
+  },
+  {
+    "season": "FMA",
+    "year": 1992,
+    "sst_total": 28.67,
+    "sst_anomaly": 1.4
+  },
+  {
+    "season": "MAM",
+    "year": 1992,
+    "sst_total": 28.91,
+    "sst_anomaly": 1.3
+  },
+  {
+    "season": "AMJ",
+    "year": 1992,
+    "sst_total": 28.8,
+    "sst_anomaly": 1.08
+  },
+  {
+    "season": "MJJ",
+    "year": 1992,
+    "sst_total": 28.27,
+    "sst_anomaly": 0.72
+  },
+  {
+    "season": "JJA",
+    "year": 1992,
+    "sst_total": 27.55,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "JAS",
+    "year": 1992,
+    "sst_total": 27.0,
+    "sst_anomaly": 0.08
+  },
+  {
+    "season": "ASO",
+    "year": 1992,
+    "sst_total": 26.63,
+    "sst_anomaly": -0.15
+  },
+  {
+    "season": "SON",
+    "year": 1992,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.22
+  },
+  {
+    "season": "OND",
+    "year": 1992,
+    "sst_total": 26.47,
+    "sst_anomaly": -0.24
+  },
+  {
+    "season": "NDJ",
+    "year": 1992,
+    "sst_total": 26.62,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "DJF",
+    "year": 1993,
+    "sst_total": 26.82,
+    "sst_anomaly": 0.13
+  },
+  {
+    "season": "JFM",
+    "year": 1993,
+    "sst_total": 27.21,
+    "sst_anomaly": 0.31
+  },
+  {
+    "season": "FMA",
+    "year": 1993,
+    "sst_total": 27.76,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "MAM",
+    "year": 1993,
+    "sst_total": 28.34,
+    "sst_anomaly": 0.73
+  },
+  {
+    "season": "AMJ",
+    "year": 1993,
+    "sst_total": 28.48,
+    "sst_anomaly": 0.76
+  },
+  {
+    "season": "MJJ",
+    "year": 1993,
+    "sst_total": 28.11,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "JJA",
+    "year": 1993,
+    "sst_total": 27.48,
+    "sst_anomaly": 0.28
+  },
+  {
+    "season": "JAS",
+    "year": 1993,
+    "sst_total": 27.14,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "ASO",
+    "year": 1993,
+    "sst_total": 26.98,
+    "sst_anomaly": 0.2
+  },
+  {
+    "season": "SON",
+    "year": 1993,
+    "sst_total": 26.95,
+    "sst_anomaly": 0.2
+  },
+  {
+    "season": "OND",
+    "year": 1993,
+    "sst_total": 26.9,
+    "sst_anomaly": 0.2
+  },
+  {
+    "season": "NDJ",
+    "year": 1993,
+    "sst_total": 26.85,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "DJF",
+    "year": 1994,
+    "sst_total": 26.77,
+    "sst_anomaly": 0.07
+  },
+  {
+    "season": "JFM",
+    "year": 1994,
+    "sst_total": 26.9,
+    "sst_anomaly": 0.0
+  },
+  {
+    "season": "FMA",
+    "year": 1994,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.04
+  },
+  {
+    "season": "MAM",
+    "year": 1994,
+    "sst_total": 27.78,
+    "sst_anomaly": 0.17
+  },
+  {
+    "season": "AMJ",
+    "year": 1994,
+    "sst_total": 27.97,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "MJJ",
+    "year": 1994,
+    "sst_total": 27.78,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "JJA",
+    "year": 1994,
+    "sst_total": 27.51,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "JAS",
+    "year": 1994,
+    "sst_total": 27.22,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "ASO",
+    "year": 1994,
+    "sst_total": 27.25,
+    "sst_anomaly": 0.47
+  },
+  {
+    "season": "SON",
+    "year": 1994,
+    "sst_total": 27.4,
+    "sst_anomaly": 0.66
+  },
+  {
+    "season": "OND",
+    "year": 1994,
+    "sst_total": 27.64,
+    "sst_anomaly": 0.93
+  },
+  {
+    "season": "NDJ",
+    "year": 1994,
+    "sst_total": 27.64,
+    "sst_anomaly": 0.97
+  },
+  {
+    "season": "DJF",
+    "year": 1995,
+    "sst_total": 27.58,
+    "sst_anomaly": 0.88
+  },
+  {
+    "season": "JFM",
+    "year": 1995,
+    "sst_total": 27.56,
+    "sst_anomaly": 0.65
+  },
+  {
+    "season": "FMA",
+    "year": 1995,
+    "sst_total": 27.73,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "MAM",
+    "year": 1995,
+    "sst_total": 27.8,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "AMJ",
+    "year": 1995,
+    "sst_total": 27.75,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "MJJ",
+    "year": 1995,
+    "sst_total": 27.43,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "JJA",
+    "year": 1995,
+    "sst_total": 26.91,
+    "sst_anomaly": -0.3
+  },
+  {
+    "season": "JAS",
+    "year": 1995,
+    "sst_total": 26.38,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "ASO",
+    "year": 1995,
+    "sst_total": 25.97,
+    "sst_anomaly": -0.81
+  },
+  {
+    "season": "SON",
+    "year": 1995,
+    "sst_total": 25.78,
+    "sst_anomaly": -0.97
+  },
+  {
+    "season": "OND",
+    "year": 1995,
+    "sst_total": 25.66,
+    "sst_anomaly": -1.05
+  },
+  {
+    "season": "NDJ",
+    "year": 1995,
+    "sst_total": 25.64,
+    "sst_anomaly": -1.01
+  },
+  {
+    "season": "DJF",
+    "year": 1996,
+    "sst_total": 25.78,
+    "sst_anomaly": -0.88
+  },
+  {
+    "season": "JFM",
+    "year": 1996,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.7
+  },
+  {
+    "season": "FMA",
+    "year": 1996,
+    "sst_total": 26.72,
+    "sst_anomaly": -0.52
+  },
+  {
+    "season": "MAM",
+    "year": 1996,
+    "sst_total": 27.25,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "AMJ",
+    "year": 1996,
+    "sst_total": 27.48,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "MJJ",
+    "year": 1996,
+    "sst_total": 27.3,
+    "sst_anomaly": -0.24
+  },
+  {
+    "season": "JJA",
+    "year": 1996,
+    "sst_total": 26.99,
+    "sst_anomaly": -0.22
+  },
+  {
+    "season": "JAS",
+    "year": 1996,
+    "sst_total": 26.65,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "ASO",
+    "year": 1996,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.3
+  },
+  {
+    "season": "SON",
+    "year": 1996,
+    "sst_total": 26.35,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "OND",
+    "year": 1996,
+    "sst_total": 26.24,
+    "sst_anomaly": -0.39
+  },
+  {
+    "season": "NDJ",
+    "year": 1996,
+    "sst_total": 26.18,
+    "sst_anomaly": -0.41
+  },
+  {
+    "season": "DJF",
+    "year": 1997,
+    "sst_total": 26.23,
+    "sst_anomaly": -0.41
+  },
+  {
+    "season": "JFM",
+    "year": 1997,
+    "sst_total": 26.59,
+    "sst_anomaly": -0.26
+  },
+  {
+    "season": "FMA",
+    "year": 1997,
+    "sst_total": 27.21,
+    "sst_anomaly": -0.03
+  },
+  {
+    "season": "MAM",
+    "year": 1997,
+    "sst_total": 27.9,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "AMJ",
+    "year": 1997,
+    "sst_total": 28.44,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "MJJ",
+    "year": 1997,
+    "sst_total": 28.67,
+    "sst_anomaly": 1.13
+  },
+  {
+    "season": "JJA",
+    "year": 1997,
+    "sst_total": 28.69,
+    "sst_anomaly": 1.48
+  },
+  {
+    "season": "JAS",
+    "year": 1997,
+    "sst_total": 28.7,
+    "sst_anomaly": 1.79
+  },
+  {
+    "season": "ASO",
+    "year": 1997,
+    "sst_total": 28.78,
+    "sst_anomaly": 2.04
+  },
+  {
+    "season": "SON",
+    "year": 1997,
+    "sst_total": 28.92,
+    "sst_anomaly": 2.24
+  },
+  {
+    "season": "OND",
+    "year": 1997,
+    "sst_total": 28.97,
+    "sst_anomaly": 2.34
+  },
+  {
+    "season": "NDJ",
+    "year": 1997,
+    "sst_total": 28.96,
+    "sst_anomaly": 2.37
+  },
+  {
+    "season": "DJF",
+    "year": 1998,
+    "sst_total": 28.85,
+    "sst_anomaly": 2.22
+  },
+  {
+    "season": "JFM",
+    "year": 1998,
+    "sst_total": 28.76,
+    "sst_anomaly": 1.91
+  },
+  {
+    "season": "FMA",
+    "year": 1998,
+    "sst_total": 28.64,
+    "sst_anomaly": 1.4
+  },
+  {
+    "season": "MAM",
+    "year": 1998,
+    "sst_total": 28.63,
+    "sst_anomaly": 1.03
+  },
+  {
+    "season": "AMJ",
+    "year": 1998,
+    "sst_total": 28.13,
+    "sst_anomaly": 0.4
+  },
+  {
+    "season": "MJJ",
+    "year": 1998,
+    "sst_total": 27.46,
+    "sst_anomaly": -0.08
+  },
+  {
+    "season": "JJA",
+    "year": 1998,
+    "sst_total": 26.57,
+    "sst_anomaly": -0.63
+  },
+  {
+    "season": "JAS",
+    "year": 1998,
+    "sst_total": 26.08,
+    "sst_anomaly": -0.83
+  },
+  {
+    "season": "ASO",
+    "year": 1998,
+    "sst_total": 25.73,
+    "sst_anomaly": -1.02
+  },
+  {
+    "season": "SON",
+    "year": 1998,
+    "sst_total": 25.56,
+    "sst_anomaly": -1.12
+  },
+  {
+    "season": "OND",
+    "year": 1998,
+    "sst_total": 25.32,
+    "sst_anomaly": -1.31
+  },
+  {
+    "season": "NDJ",
+    "year": 1998,
+    "sst_total": 25.12,
+    "sst_anomaly": -1.47
+  },
+  {
+    "season": "DJF",
+    "year": 1999,
+    "sst_total": 25.12,
+    "sst_anomaly": -1.51
+  },
+  {
+    "season": "JFM",
+    "year": 1999,
+    "sst_total": 25.6,
+    "sst_anomaly": -1.25
+  },
+  {
+    "season": "FMA",
+    "year": 1999,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.93
+  },
+  {
+    "season": "MAM",
+    "year": 1999,
+    "sst_total": 26.8,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "AMJ",
+    "year": 1999,
+    "sst_total": 26.94,
+    "sst_anomaly": -0.79
+  },
+  {
+    "season": "MJJ",
+    "year": 1999,
+    "sst_total": 26.7,
+    "sst_anomaly": -0.84
+  },
+  {
+    "season": "JJA",
+    "year": 1999,
+    "sst_total": 26.3,
+    "sst_anomaly": -0.9
+  },
+  {
+    "season": "JAS",
+    "year": 1999,
+    "sst_total": 25.97,
+    "sst_anomaly": -0.94
+  },
+  {
+    "season": "ASO",
+    "year": 1999,
+    "sst_total": 25.75,
+    "sst_anomaly": -1.0
+  },
+  {
+    "season": "SON",
+    "year": 1999,
+    "sst_total": 25.55,
+    "sst_anomaly": -1.13
+  },
+  {
+    "season": "OND",
+    "year": 1999,
+    "sst_total": 25.27,
+    "sst_anomaly": -1.35
+  },
+  {
+    "season": "NDJ",
+    "year": 1999,
+    "sst_total": 25.06,
+    "sst_anomaly": -1.53
+  },
+  {
+    "season": "DJF",
+    "year": 2000,
+    "sst_total": 25.17,
+    "sst_anomaly": -1.47
+  },
+  {
+    "season": "JFM",
+    "year": 2000,
+    "sst_total": 25.59,
+    "sst_anomaly": -1.26
+  },
+  {
+    "season": "FMA",
+    "year": 2000,
+    "sst_total": 26.26,
+    "sst_anomaly": -0.98
+  },
+  {
+    "season": "MAM",
+    "year": 2000,
+    "sst_total": 26.79,
+    "sst_anomaly": -0.81
+  },
+  {
+    "season": "AMJ",
+    "year": 2000,
+    "sst_total": 27.06,
+    "sst_anomaly": -0.67
+  },
+  {
+    "season": "MJJ",
+    "year": 2000,
+    "sst_total": 26.92,
+    "sst_anomaly": -0.62
+  },
+  {
+    "season": "JJA",
+    "year": 2000,
+    "sst_total": 26.73,
+    "sst_anomaly": -0.48
+  },
+  {
+    "season": "JAS",
+    "year": 2000,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "ASO",
+    "year": 2000,
+    "sst_total": 26.33,
+    "sst_anomaly": -0.42
+  },
+  {
+    "season": "SON",
+    "year": 2000,
+    "sst_total": 26.14,
+    "sst_anomaly": -0.54
+  },
+  {
+    "season": "OND",
+    "year": 2000,
+    "sst_total": 25.87,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "NDJ",
+    "year": 2000,
+    "sst_total": 25.78,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "DJF",
+    "year": 2001,
+    "sst_total": 25.82,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "JFM",
+    "year": 2001,
+    "sst_total": 26.25,
+    "sst_anomaly": -0.54
+  },
+  {
+    "season": "FMA",
+    "year": 2001,
+    "sst_total": 26.79,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "MAM",
+    "year": 2001,
+    "sst_total": 27.34,
+    "sst_anomaly": -0.29
+  },
+  {
+    "season": "AMJ",
+    "year": 2001,
+    "sst_total": 27.59,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "MJJ",
+    "year": 2001,
+    "sst_total": 27.53,
+    "sst_anomaly": -0.08
+  },
+  {
+    "season": "JJA",
+    "year": 2001,
+    "sst_total": 27.24,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "JAS",
+    "year": 2001,
+    "sst_total": 26.86,
+    "sst_anomaly": -0.13
+  },
+  {
+    "season": "ASO",
+    "year": 2001,
+    "sst_total": 26.67,
+    "sst_anomaly": -0.15
+  },
+  {
+    "season": "SON",
+    "year": 2001,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.26
+  },
+  {
+    "season": "OND",
+    "year": 2001,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "NDJ",
+    "year": 2001,
+    "sst_total": 26.32,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "DJF",
+    "year": 2002,
+    "sst_total": 26.46,
+    "sst_anomaly": -0.15
+  },
+  {
+    "season": "JFM",
+    "year": 2002,
+    "sst_total": 26.86,
+    "sst_anomaly": 0.07
+  },
+  {
+    "season": "FMA",
+    "year": 2002,
+    "sst_total": 27.34,
+    "sst_anomaly": 0.11
+  },
+  {
+    "season": "MAM",
+    "year": 2002,
+    "sst_total": 27.78,
+    "sst_anomaly": 0.15
+  },
+  {
+    "season": "AMJ",
+    "year": 2002,
+    "sst_total": 28.08,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "MJJ",
+    "year": 2002,
+    "sst_total": 28.05,
+    "sst_anomaly": 0.45
+  },
+  {
+    "season": "JJA",
+    "year": 2002,
+    "sst_total": 27.85,
+    "sst_anomaly": 0.57
+  },
+  {
+    "season": "JAS",
+    "year": 2002,
+    "sst_total": 27.62,
+    "sst_anomaly": 0.63
+  },
+  {
+    "season": "ASO",
+    "year": 2002,
+    "sst_total": 27.6,
+    "sst_anomaly": 0.78
+  },
+  {
+    "season": "SON",
+    "year": 2002,
+    "sst_total": 27.77,
+    "sst_anomaly": 0.99
+  },
+  {
+    "season": "OND",
+    "year": 2002,
+    "sst_total": 27.92,
+    "sst_anomaly": 1.19
+  },
+  {
+    "season": "NDJ",
+    "year": 2002,
+    "sst_total": 27.72,
+    "sst_anomaly": 1.08
+  },
+  {
+    "season": "DJF",
+    "year": 2003,
+    "sst_total": 27.51,
+    "sst_anomaly": 0.9
+  },
+  {
+    "season": "JFM",
+    "year": 2003,
+    "sst_total": 27.39,
+    "sst_anomaly": 0.59
+  },
+  {
+    "season": "FMA",
+    "year": 2003,
+    "sst_total": 27.61,
+    "sst_anomaly": 0.38
+  },
+  {
+    "season": "MAM",
+    "year": 2003,
+    "sst_total": 27.62,
+    "sst_anomaly": -0.01
+  },
+  {
+    "season": "AMJ",
+    "year": 2003,
+    "sst_total": 27.6,
+    "sst_anomaly": -0.18
+  },
+  {
+    "season": "MJJ",
+    "year": 2003,
+    "sst_total": 27.47,
+    "sst_anomaly": -0.13
+  },
+  {
+    "season": "JJA",
+    "year": 2003,
+    "sst_total": 27.38,
+    "sst_anomaly": 0.09
+  },
+  {
+    "season": "JAS",
+    "year": 2003,
+    "sst_total": 27.13,
+    "sst_anomaly": 0.14
+  },
+  {
+    "season": "ASO",
+    "year": 2003,
+    "sst_total": 27.05,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "SON",
+    "year": 2003,
+    "sst_total": 27.0,
+    "sst_anomaly": 0.23
+  },
+  {
+    "season": "OND",
+    "year": 2003,
+    "sst_total": 27.02,
+    "sst_anomaly": 0.29
+  },
+  {
+    "season": "NDJ",
+    "year": 2003,
+    "sst_total": 26.93,
+    "sst_anomaly": 0.29
+  },
+  {
+    "season": "DJF",
+    "year": 2004,
+    "sst_total": 26.95,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "JFM",
+    "year": 2004,
+    "sst_total": 27.06,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "FMA",
+    "year": 2004,
+    "sst_total": 27.41,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "MAM",
+    "year": 2004,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.1
+  },
+  {
+    "season": "AMJ",
+    "year": 2004,
+    "sst_total": 27.9,
+    "sst_anomaly": 0.12
+  },
+  {
+    "season": "MJJ",
+    "year": 2004,
+    "sst_total": 27.83,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "JJA",
+    "year": 2004,
+    "sst_total": 27.67,
+    "sst_anomaly": 0.39
+  },
+  {
+    "season": "JAS",
+    "year": 2004,
+    "sst_total": 27.53,
+    "sst_anomaly": 0.54
+  },
+  {
+    "season": "ASO",
+    "year": 2004,
+    "sst_total": 27.4,
+    "sst_anomaly": 0.58
+  },
+  {
+    "season": "SON",
+    "year": 2004,
+    "sst_total": 27.38,
+    "sst_anomaly": 0.61
+  },
+  {
+    "season": "OND",
+    "year": 2004,
+    "sst_total": 27.37,
+    "sst_anomaly": 0.64
+  },
+  {
+    "season": "NDJ",
+    "year": 2004,
+    "sst_total": 27.34,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "DJF",
+    "year": 2005,
+    "sst_total": 27.23,
+    "sst_anomaly": 0.62
+  },
+  {
+    "season": "JFM",
+    "year": 2005,
+    "sst_total": 27.35,
+    "sst_anomaly": 0.55
+  },
+  {
+    "season": "FMA",
+    "year": 2005,
+    "sst_total": 27.62,
+    "sst_anomaly": 0.4
+  },
+  {
+    "season": "MAM",
+    "year": 2005,
+    "sst_total": 27.99,
+    "sst_anomaly": 0.37
+  },
+  {
+    "season": "AMJ",
+    "year": 2005,
+    "sst_total": 28.05,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "MJJ",
+    "year": 2005,
+    "sst_total": 27.7,
+    "sst_anomaly": 0.09
+  },
+  {
+    "season": "JJA",
+    "year": 2005,
+    "sst_total": 27.24,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "JAS",
+    "year": 2005,
+    "sst_total": 26.85,
+    "sst_anomaly": -0.14
+  },
+  {
+    "season": "ASO",
+    "year": 2005,
+    "sst_total": 26.71,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "SON",
+    "year": 2005,
+    "sst_total": 26.5,
+    "sst_anomaly": -0.27
+  },
+  {
+    "season": "OND",
+    "year": 2005,
+    "sst_total": 26.16,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "NDJ",
+    "year": 2005,
+    "sst_total": 25.86,
+    "sst_anomaly": -0.82
+  },
+  {
+    "season": "DJF",
+    "year": 2006,
+    "sst_total": 25.83,
+    "sst_anomaly": -0.86
+  },
+  {
+    "season": "JFM",
+    "year": 2006,
+    "sst_total": 26.11,
+    "sst_anomaly": -0.8
+  },
+  {
+    "season": "FMA",
+    "year": 2006,
+    "sst_total": 26.71,
+    "sst_anomaly": -0.63
+  },
+  {
+    "season": "MAM",
+    "year": 2006,
+    "sst_total": 27.28,
+    "sst_anomaly": -0.45
+  },
+  {
+    "season": "AMJ",
+    "year": 2006,
+    "sst_total": 27.69,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "MJJ",
+    "year": 2006,
+    "sst_total": 27.63,
+    "sst_anomaly": -0.05
+  },
+  {
+    "season": "JJA",
+    "year": 2006,
+    "sst_total": 27.45,
+    "sst_anomaly": 0.12
+  },
+  {
+    "season": "JAS",
+    "year": 2006,
+    "sst_total": 27.32,
+    "sst_anomaly": 0.33
+  },
+  {
+    "season": "ASO",
+    "year": 2006,
+    "sst_total": 27.34,
+    "sst_anomaly": 0.54
+  },
+  {
+    "season": "SON",
+    "year": 2006,
+    "sst_total": 27.47,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "OND",
+    "year": 2006,
+    "sst_total": 27.6,
+    "sst_anomaly": 0.88
+  },
+  {
+    "season": "NDJ",
+    "year": 2006,
+    "sst_total": 27.55,
+    "sst_anomaly": 0.88
+  },
+  {
+    "season": "DJF",
+    "year": 2007,
+    "sst_total": 27.3,
+    "sst_anomaly": 0.62
+  },
+  {
+    "season": "JFM",
+    "year": 2007,
+    "sst_total": 27.1,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "FMA",
+    "year": 2007,
+    "sst_total": 27.22,
+    "sst_anomaly": -0.12
+  },
+  {
+    "season": "MAM",
+    "year": 2007,
+    "sst_total": 27.41,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "AMJ",
+    "year": 2007,
+    "sst_total": 27.54,
+    "sst_anomaly": -0.34
+  },
+  {
+    "season": "MJJ",
+    "year": 2007,
+    "sst_total": 27.27,
+    "sst_anomaly": -0.41
+  },
+  {
+    "season": "JJA",
+    "year": 2007,
+    "sst_total": 26.84,
+    "sst_anomaly": -0.49
+  },
+  {
+    "season": "JAS",
+    "year": 2007,
+    "sst_total": 26.22,
+    "sst_anomaly": -0.77
+  },
+  {
+    "season": "ASO",
+    "year": 2007,
+    "sst_total": 25.75,
+    "sst_anomaly": -1.05
+  },
+  {
+    "season": "SON",
+    "year": 2007,
+    "sst_total": 25.38,
+    "sst_anomaly": -1.38
+  },
+  {
+    "season": "OND",
+    "year": 2007,
+    "sst_total": 25.15,
+    "sst_anomaly": -1.57
+  },
+  {
+    "season": "NDJ",
+    "year": 2007,
+    "sst_total": 24.95,
+    "sst_anomaly": -1.72
+  },
+  {
+    "season": "DJF",
+    "year": 2008,
+    "sst_total": 24.92,
+    "sst_anomaly": -1.76
+  },
+  {
+    "season": "JFM",
+    "year": 2008,
+    "sst_total": 25.29,
+    "sst_anomaly": -1.61
+  },
+  {
+    "season": "FMA",
+    "year": 2008,
+    "sst_total": 25.97,
+    "sst_anomaly": -1.37
+  },
+  {
+    "season": "MAM",
+    "year": 2008,
+    "sst_total": 26.69,
+    "sst_anomaly": -1.05
+  },
+  {
+    "season": "AMJ",
+    "year": 2008,
+    "sst_total": 27.03,
+    "sst_anomaly": -0.85
+  },
+  {
+    "season": "MJJ",
+    "year": 2008,
+    "sst_total": 27.13,
+    "sst_anomaly": -0.56
+  },
+  {
+    "season": "JJA",
+    "year": 2008,
+    "sst_total": 26.99,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "JAS",
+    "year": 2008,
+    "sst_total": 26.78,
+    "sst_anomaly": -0.2
+  },
+  {
+    "season": "ASO",
+    "year": 2008,
+    "sst_total": 26.55,
+    "sst_anomaly": -0.25
+  },
+  {
+    "season": "SON",
+    "year": 2008,
+    "sst_total": 26.4,
+    "sst_anomaly": -0.36
+  },
+  {
+    "season": "OND",
+    "year": 2008,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "NDJ",
+    "year": 2008,
+    "sst_total": 25.87,
+    "sst_anomaly": -0.79
+  },
+  {
+    "season": "DJF",
+    "year": 2009,
+    "sst_total": 25.79,
+    "sst_anomaly": -0.89
+  },
+  {
+    "season": "JFM",
+    "year": 2009,
+    "sst_total": 26.07,
+    "sst_anomaly": -0.84
+  },
+  {
+    "season": "FMA",
+    "year": 2009,
+    "sst_total": 26.71,
+    "sst_anomaly": -0.63
+  },
+  {
+    "season": "MAM",
+    "year": 2009,
+    "sst_total": 27.38,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "AMJ",
+    "year": 2009,
+    "sst_total": 27.91,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "MJJ",
+    "year": 2009,
+    "sst_total": 28.03,
+    "sst_anomaly": 0.34
+  },
+  {
+    "season": "JJA",
+    "year": 2009,
+    "sst_total": 27.82,
+    "sst_anomaly": 0.5
+  },
+  {
+    "season": "JAS",
+    "year": 2009,
+    "sst_total": 27.55,
+    "sst_anomaly": 0.56
+  },
+  {
+    "season": "ASO",
+    "year": 2009,
+    "sst_total": 27.46,
+    "sst_anomaly": 0.66
+  },
+  {
+    "season": "SON",
+    "year": 2009,
+    "sst_total": 27.68,
+    "sst_anomaly": 0.92
+  },
+  {
+    "season": "OND",
+    "year": 2009,
+    "sst_total": 28.02,
+    "sst_anomaly": 1.31
+  },
+  {
+    "season": "NDJ",
+    "year": 2009,
+    "sst_total": 28.16,
+    "sst_anomaly": 1.5
+  },
+  {
+    "season": "DJF",
+    "year": 2010,
+    "sst_total": 28.15,
+    "sst_anomaly": 1.47
+  },
+  {
+    "season": "JFM",
+    "year": 2010,
+    "sst_total": 28.11,
+    "sst_anomaly": 1.21
+  },
+  {
+    "season": "FMA",
+    "year": 2010,
+    "sst_total": 28.22,
+    "sst_anomaly": 0.88
+  },
+  {
+    "season": "MAM",
+    "year": 2010,
+    "sst_total": 28.11,
+    "sst_anomaly": 0.38
+  },
+  {
+    "season": "AMJ",
+    "year": 2010,
+    "sst_total": 27.72,
+    "sst_anomaly": -0.16
+  },
+  {
+    "season": "MJJ",
+    "year": 2010,
+    "sst_total": 27.03,
+    "sst_anomaly": -0.66
+  },
+  {
+    "season": "JJA",
+    "year": 2010,
+    "sst_total": 26.34,
+    "sst_anomaly": -0.98
+  },
+  {
+    "season": "JAS",
+    "year": 2010,
+    "sst_total": 25.74,
+    "sst_anomaly": -1.24
+  },
+  {
+    "season": "ASO",
+    "year": 2010,
+    "sst_total": 25.37,
+    "sst_anomaly": -1.43
+  },
+  {
+    "season": "SON",
+    "year": 2010,
+    "sst_total": 25.21,
+    "sst_anomaly": -1.54
+  },
+  {
+    "season": "OND",
+    "year": 2010,
+    "sst_total": 25.14,
+    "sst_anomaly": -1.57
+  },
+  {
+    "season": "NDJ",
+    "year": 2010,
+    "sst_total": 25.14,
+    "sst_anomaly": -1.48
+  },
+  {
+    "season": "DJF",
+    "year": 2011,
+    "sst_total": 25.28,
+    "sst_anomaly": -1.29
+  },
+  {
+    "season": "JFM",
+    "year": 2011,
+    "sst_total": 25.72,
+    "sst_anomaly": -1.06
+  },
+  {
+    "season": "FMA",
+    "year": 2011,
+    "sst_total": 26.37,
+    "sst_anomaly": -0.85
+  },
+  {
+    "season": "MAM",
+    "year": 2011,
+    "sst_total": 26.95,
+    "sst_anomaly": -0.68
+  },
+  {
+    "season": "AMJ",
+    "year": 2011,
+    "sst_total": 27.29,
+    "sst_anomaly": -0.5
+  },
+  {
+    "season": "MJJ",
+    "year": 2011,
+    "sst_total": 27.29,
+    "sst_anomaly": -0.34
+  },
+  {
+    "season": "JJA",
+    "year": 2011,
+    "sst_total": 26.92,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "JAS",
+    "year": 2011,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.5
+  },
+  {
+    "season": "ASO",
+    "year": 2011,
+    "sst_total": 26.0,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "SON",
+    "year": 2011,
+    "sst_total": 25.77,
+    "sst_anomaly": -0.94
+  },
+  {
+    "season": "OND",
+    "year": 2011,
+    "sst_total": 25.63,
+    "sst_anomaly": -1.02
+  },
+  {
+    "season": "NDJ",
+    "year": 2011,
+    "sst_total": 25.64,
+    "sst_anomaly": -0.92
+  },
+  {
+    "season": "DJF",
+    "year": 2012,
+    "sst_total": 25.84,
+    "sst_anomaly": -0.71
+  },
+  {
+    "season": "JFM",
+    "year": 2012,
+    "sst_total": 26.22,
+    "sst_anomaly": -0.56
+  },
+  {
+    "season": "FMA",
+    "year": 2012,
+    "sst_total": 26.79,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "MAM",
+    "year": 2012,
+    "sst_total": 27.29,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "AMJ",
+    "year": 2012,
+    "sst_total": 27.62,
+    "sst_anomaly": -0.18
+  },
+  {
+    "season": "MJJ",
+    "year": 2012,
+    "sst_total": 27.66,
+    "sst_anomaly": 0.03
+  },
+  {
+    "season": "JJA",
+    "year": 2012,
+    "sst_total": 27.57,
+    "sst_anomaly": 0.28
+  },
+  {
+    "season": "JAS",
+    "year": 2012,
+    "sst_total": 27.35,
+    "sst_anomaly": 0.39
+  },
+  {
+    "season": "ASO",
+    "year": 2012,
+    "sst_total": 27.13,
+    "sst_anomaly": 0.37
+  },
+  {
+    "season": "SON",
+    "year": 2012,
+    "sst_total": 26.99,
+    "sst_anomaly": 0.28
+  },
+  {
+    "season": "OND",
+    "year": 2012,
+    "sst_total": 26.78,
+    "sst_anomaly": 0.13
+  },
+  {
+    "season": "NDJ",
+    "year": 2012,
+    "sst_total": 26.53,
+    "sst_anomaly": -0.03
+  },
+  {
+    "season": "DJF",
+    "year": 2013,
+    "sst_total": 26.3,
+    "sst_anomaly": -0.24
+  },
+  {
+    "season": "JFM",
+    "year": 2013,
+    "sst_total": 26.5,
+    "sst_anomaly": -0.28
+  },
+  {
+    "season": "FMA",
+    "year": 2013,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "MAM",
+    "year": 2013,
+    "sst_total": 27.43,
+    "sst_anomaly": -0.2
+  },
+  {
+    "season": "AMJ",
+    "year": 2013,
+    "sst_total": 27.49,
+    "sst_anomaly": -0.3
+  },
+  {
+    "season": "MJJ",
+    "year": 2013,
+    "sst_total": 27.24,
+    "sst_anomaly": -0.38
+  },
+  {
+    "season": "JJA",
+    "year": 2013,
+    "sst_total": 26.84,
+    "sst_anomaly": -0.45
+  },
+  {
+    "season": "JAS",
+    "year": 2013,
+    "sst_total": 26.61,
+    "sst_anomaly": -0.34
+  },
+  {
+    "season": "ASO",
+    "year": 2013,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.32
+  },
+  {
+    "season": "SON",
+    "year": 2013,
+    "sst_total": 26.57,
+    "sst_anomaly": -0.14
+  },
+  {
+    "season": "OND",
+    "year": 2013,
+    "sst_total": 26.53,
+    "sst_anomaly": -0.12
+  },
+  {
+    "season": "NDJ",
+    "year": 2013,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "DJF",
+    "year": 2014,
+    "sst_total": 26.31,
+    "sst_anomaly": -0.24
+  },
+  {
+    "season": "JFM",
+    "year": 2014,
+    "sst_total": 26.57,
+    "sst_anomaly": -0.21
+  },
+  {
+    "season": "FMA",
+    "year": 2014,
+    "sst_total": 27.21,
+    "sst_anomaly": -0.02
+  },
+  {
+    "season": "MAM",
+    "year": 2014,
+    "sst_total": 27.88,
+    "sst_anomaly": 0.25
+  },
+  {
+    "season": "AMJ",
+    "year": 2014,
+    "sst_total": 28.14,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "MJJ",
+    "year": 2014,
+    "sst_total": 27.84,
+    "sst_anomaly": 0.22
+  },
+  {
+    "season": "JJA",
+    "year": 2014,
+    "sst_total": 27.36,
+    "sst_anomaly": 0.07
+  },
+  {
+    "season": "JAS",
+    "year": 2014,
+    "sst_total": 27.03,
+    "sst_anomaly": 0.07
+  },
+  {
+    "season": "ASO",
+    "year": 2014,
+    "sst_total": 27.0,
+    "sst_anomaly": 0.24
+  },
+  {
+    "season": "SON",
+    "year": 2014,
+    "sst_total": 27.22,
+    "sst_anomaly": 0.51
+  },
+  {
+    "season": "OND",
+    "year": 2014,
+    "sst_total": 27.35,
+    "sst_anomaly": 0.7
+  },
+  {
+    "season": "NDJ",
+    "year": 2014,
+    "sst_total": 27.36,
+    "sst_anomaly": 0.8
+  },
+  {
+    "season": "DJF",
+    "year": 2015,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.73
+  },
+  {
+    "season": "JFM",
+    "year": 2015,
+    "sst_total": 27.43,
+    "sst_anomaly": 0.65
+  },
+  {
+    "season": "FMA",
+    "year": 2015,
+    "sst_total": 27.95,
+    "sst_anomaly": 0.72
+  },
+  {
+    "season": "MAM",
+    "year": 2015,
+    "sst_total": 28.49,
+    "sst_anomaly": 0.86
+  },
+  {
+    "season": "AMJ",
+    "year": 2015,
+    "sst_total": 28.83,
+    "sst_anomaly": 1.04
+  },
+  {
+    "season": "MJJ",
+    "year": 2015,
+    "sst_total": 28.82,
+    "sst_anomaly": 1.19
+  },
+  {
+    "season": "JJA",
+    "year": 2015,
+    "sst_total": 28.73,
+    "sst_anomaly": 1.44
+  },
+  {
+    "season": "JAS",
+    "year": 2015,
+    "sst_total": 28.69,
+    "sst_anomaly": 1.73
+  },
+  {
+    "season": "ASO",
+    "year": 2015,
+    "sst_total": 28.79,
+    "sst_anomaly": 2.02
+  },
+  {
+    "season": "SON",
+    "year": 2015,
+    "sst_total": 28.99,
+    "sst_anomaly": 2.28
+  },
+  {
+    "season": "OND",
+    "year": 2015,
+    "sst_total": 29.1,
+    "sst_anomaly": 2.45
+  },
+  {
+    "season": "NDJ",
+    "year": 2015,
+    "sst_total": 29.15,
+    "sst_anomaly": 2.59
+  },
+  {
+    "season": "DJF",
+    "year": 2016,
+    "sst_total": 29.05,
+    "sst_anomaly": 2.5
+  },
+  {
+    "season": "JFM",
+    "year": 2016,
+    "sst_total": 28.99,
+    "sst_anomaly": 2.21
+  },
+  {
+    "season": "FMA",
+    "year": 2016,
+    "sst_total": 28.92,
+    "sst_anomaly": 1.69
+  },
+  {
+    "season": "MAM",
+    "year": 2016,
+    "sst_total": 28.74,
+    "sst_anomaly": 1.11
+  },
+  {
+    "season": "AMJ",
+    "year": 2016,
+    "sst_total": 28.37,
+    "sst_anomaly": 0.57
+  },
+  {
+    "season": "MJJ",
+    "year": 2016,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.09
+  },
+  {
+    "season": "JJA",
+    "year": 2016,
+    "sst_total": 27.1,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "JAS",
+    "year": 2016,
+    "sst_total": 26.62,
+    "sst_anomaly": -0.34
+  },
+  {
+    "season": "ASO",
+    "year": 2016,
+    "sst_total": 26.34,
+    "sst_anomaly": -0.42
+  },
+  {
+    "season": "SON",
+    "year": 2016,
+    "sst_total": 26.2,
+    "sst_anomaly": -0.51
+  },
+  {
+    "season": "OND",
+    "year": 2016,
+    "sst_total": 26.16,
+    "sst_anomaly": -0.49
+  },
+  {
+    "season": "NDJ",
+    "year": 2016,
+    "sst_total": 26.19,
+    "sst_anomaly": -0.37
+  },
+  {
+    "season": "DJF",
+    "year": 2017,
+    "sst_total": 26.47,
+    "sst_anomaly": -0.08
+  },
+  {
+    "season": "JFM",
+    "year": 2017,
+    "sst_total": 26.86,
+    "sst_anomaly": 0.08
+  },
+  {
+    "season": "FMA",
+    "year": 2017,
+    "sst_total": 27.5,
+    "sst_anomaly": 0.27
+  },
+  {
+    "season": "MAM",
+    "year": 2017,
+    "sst_total": 27.95,
+    "sst_anomaly": 0.32
+  },
+  {
+    "season": "AMJ",
+    "year": 2017,
+    "sst_total": 28.15,
+    "sst_anomaly": 0.35
+  },
+  {
+    "season": "MJJ",
+    "year": 2017,
+    "sst_total": 27.94,
+    "sst_anomaly": 0.32
+  },
+  {
+    "season": "JJA",
+    "year": 2017,
+    "sst_total": 27.43,
+    "sst_anomaly": 0.14
+  },
+  {
+    "season": "JAS",
+    "year": 2017,
+    "sst_total": 26.89,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "ASO",
+    "year": 2017,
+    "sst_total": 26.54,
+    "sst_anomaly": -0.23
+  },
+  {
+    "season": "SON",
+    "year": 2017,
+    "sst_total": 26.27,
+    "sst_anomaly": -0.44
+  },
+  {
+    "season": "OND",
+    "year": 2017,
+    "sst_total": 26.04,
+    "sst_anomaly": -0.61
+  },
+  {
+    "season": "NDJ",
+    "year": 2017,
+    "sst_total": 25.8,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "DJF",
+    "year": 2018,
+    "sst_total": 25.83,
+    "sst_anomaly": -0.71
+  },
+  {
+    "season": "JFM",
+    "year": 2018,
+    "sst_total": 26.11,
+    "sst_anomaly": -0.67
+  },
+  {
+    "season": "FMA",
+    "year": 2018,
+    "sst_total": 26.68,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "MAM",
+    "year": 2018,
+    "sst_total": 27.28,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "AMJ",
+    "year": 2018,
+    "sst_total": 27.72,
+    "sst_anomaly": -0.07
+  },
+  {
+    "season": "MJJ",
+    "year": 2018,
+    "sst_total": 27.76,
+    "sst_anomaly": 0.13
+  },
+  {
+    "season": "JJA",
+    "year": 2018,
+    "sst_total": 27.49,
+    "sst_anomaly": 0.2
+  },
+  {
+    "season": "JAS",
+    "year": 2018,
+    "sst_total": 27.25,
+    "sst_anomaly": 0.3
+  },
+  {
+    "season": "ASO",
+    "year": 2018,
+    "sst_total": 27.28,
+    "sst_anomaly": 0.52
+  },
+  {
+    "season": "SON",
+    "year": 2018,
+    "sst_total": 27.53,
+    "sst_anomaly": 0.82
+  },
+  {
+    "season": "OND",
+    "year": 2018,
+    "sst_total": 27.69,
+    "sst_anomaly": 1.04
+  },
+  {
+    "season": "NDJ",
+    "year": 2018,
+    "sst_total": 27.61,
+    "sst_anomaly": 1.05
+  },
+  {
+    "season": "DJF",
+    "year": 2019,
+    "sst_total": 27.54,
+    "sst_anomaly": 0.99
+  },
+  {
+    "season": "JFM",
+    "year": 2019,
+    "sst_total": 27.72,
+    "sst_anomaly": 0.94
+  },
+  {
+    "season": "FMA",
+    "year": 2019,
+    "sst_total": 28.1,
+    "sst_anomaly": 0.87
+  },
+  {
+    "season": "MAM",
+    "year": 2019,
+    "sst_total": 28.45,
+    "sst_anomaly": 0.82
+  },
+  {
+    "season": "AMJ",
+    "year": 2019,
+    "sst_total": 28.5,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "MJJ",
+    "year": 2019,
+    "sst_total": 28.21,
+    "sst_anomaly": 0.59
+  },
+  {
+    "season": "JJA",
+    "year": 2019,
+    "sst_total": 27.67,
+    "sst_anomaly": 0.38
+  },
+  {
+    "season": "JAS",
+    "year": 2019,
+    "sst_total": 27.16,
+    "sst_anomaly": 0.2
+  },
+  {
+    "season": "ASO",
+    "year": 2019,
+    "sst_total": 27.07,
+    "sst_anomaly": 0.31
+  },
+  {
+    "season": "SON",
+    "year": 2019,
+    "sst_total": 27.22,
+    "sst_anomaly": 0.51
+  },
+  {
+    "season": "OND",
+    "year": 2019,
+    "sst_total": 27.37,
+    "sst_anomaly": 0.72
+  },
+  {
+    "season": "NDJ",
+    "year": 2019,
+    "sst_total": 27.31,
+    "sst_anomaly": 0.75
+  },
+  {
+    "season": "DJF",
+    "year": 2020,
+    "sst_total": 27.25,
+    "sst_anomaly": 0.71
+  },
+  {
+    "season": "JFM",
+    "year": 2020,
+    "sst_total": 27.44,
+    "sst_anomaly": 0.66
+  },
+  {
+    "season": "FMA",
+    "year": 2020,
+    "sst_total": 27.8,
+    "sst_anomaly": 0.57
+  },
+  {
+    "season": "MAM",
+    "year": 2020,
+    "sst_total": 27.97,
+    "sst_anomaly": 0.33
+  },
+  {
+    "season": "AMJ",
+    "year": 2020,
+    "sst_total": 27.83,
+    "sst_anomaly": 0.04
+  },
+  {
+    "season": "MJJ",
+    "year": 2020,
+    "sst_total": 27.45,
+    "sst_anomaly": -0.18
+  },
+  {
+    "season": "JJA",
+    "year": 2020,
+    "sst_total": 27.0,
+    "sst_anomaly": -0.29
+  },
+  {
+    "season": "JAS",
+    "year": 2020,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "ASO",
+    "year": 2020,
+    "sst_total": 25.99,
+    "sst_anomaly": -0.77
+  },
+  {
+    "season": "SON",
+    "year": 2020,
+    "sst_total": 25.71,
+    "sst_anomaly": -1.0
+  },
+  {
+    "season": "OND",
+    "year": 2020,
+    "sst_total": 25.54,
+    "sst_anomaly": -1.11
+  },
+  {
+    "season": "NDJ",
+    "year": 2020,
+    "sst_total": 25.5,
+    "sst_anomaly": -1.06
+  },
+  {
+    "season": "DJF",
+    "year": 2021,
+    "sst_total": 25.55,
+    "sst_anomaly": -0.99
+  },
+  {
+    "season": "JFM",
+    "year": 2021,
+    "sst_total": 25.92,
+    "sst_anomaly": -0.85
+  },
+  {
+    "season": "FMA",
+    "year": 2021,
+    "sst_total": 26.48,
+    "sst_anomaly": -0.74
+  },
+  {
+    "season": "MAM",
+    "year": 2021,
+    "sst_total": 27.07,
+    "sst_anomaly": -0.56
+  },
+  {
+    "season": "AMJ",
+    "year": 2021,
+    "sst_total": 27.39,
+    "sst_anomaly": -0.4
+  },
+  {
+    "season": "MJJ",
+    "year": 2021,
+    "sst_total": 27.31,
+    "sst_anomaly": -0.31
+  },
+  {
+    "season": "JJA",
+    "year": 2021,
+    "sst_total": 26.95,
+    "sst_anomaly": -0.35
+  },
+  {
+    "season": "JAS",
+    "year": 2021,
+    "sst_total": 26.49,
+    "sst_anomaly": -0.46
+  },
+  {
+    "season": "ASO",
+    "year": 2021,
+    "sst_total": 26.13,
+    "sst_anomaly": -0.64
+  },
+  {
+    "season": "SON",
+    "year": 2021,
+    "sst_total": 25.94,
+    "sst_anomaly": -0.77
+  },
+  {
+    "season": "OND",
+    "year": 2021,
+    "sst_total": 25.74,
+    "sst_anomaly": -0.91
+  },
+  {
+    "season": "NDJ",
+    "year": 2021,
+    "sst_total": 25.73,
+    "sst_anomaly": -0.83
+  },
+  {
+    "season": "DJF",
+    "year": 2022,
+    "sst_total": 25.79,
+    "sst_anomaly": -0.76
+  },
+  {
+    "season": "JFM",
+    "year": 2022,
+    "sst_total": 26.09,
+    "sst_anomaly": -0.68
+  },
+  {
+    "season": "FMA",
+    "year": 2022,
+    "sst_total": 26.46,
+    "sst_anomaly": -0.77
+  },
+  {
+    "season": "MAM",
+    "year": 2022,
+    "sst_total": 26.77,
+    "sst_anomaly": -0.86
+  },
+  {
+    "season": "AMJ",
+    "year": 2022,
+    "sst_total": 26.96,
+    "sst_anomaly": -0.83
+  },
+  {
+    "season": "MJJ",
+    "year": 2022,
+    "sst_total": 26.9,
+    "sst_anomaly": -0.73
+  },
+  {
+    "season": "JJA",
+    "year": 2022,
+    "sst_total": 26.59,
+    "sst_anomaly": -0.7
+  },
+  {
+    "season": "JAS",
+    "year": 2022,
+    "sst_total": 26.18,
+    "sst_anomaly": -0.78
+  },
+  {
+    "season": "ASO",
+    "year": 2022,
+    "sst_total": 25.89,
+    "sst_anomaly": -0.87
+  },
+  {
+    "season": "SON",
+    "year": 2022,
+    "sst_total": 25.82,
+    "sst_anomaly": -0.89
+  },
+  {
+    "season": "OND",
+    "year": 2022,
+    "sst_total": 25.83,
+    "sst_anomaly": -0.82
+  },
+  {
+    "season": "NDJ",
+    "year": 2022,
+    "sst_total": 25.86,
+    "sst_anomaly": -0.7
+  },
+  {
+    "season": "DJF",
+    "year": 2023,
+    "sst_total": 26.0,
+    "sst_anomaly": -0.55
+  },
+  {
+    "season": "JFM",
+    "year": 2023,
+    "sst_total": 26.45,
+    "sst_anomaly": -0.33
+  },
+  {
+    "season": "FMA",
+    "year": 2023,
+    "sst_total": 27.12,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "MAM",
+    "year": 2023,
+    "sst_total": 27.82,
+    "sst_anomaly": 0.19
+  },
+  {
+    "season": "AMJ",
+    "year": 2023,
+    "sst_total": 28.25,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "MJJ",
+    "year": 2023,
+    "sst_total": 28.36,
+    "sst_anomaly": 0.73
+  },
+  {
+    "season": "JJA",
+    "year": 2023,
+    "sst_total": 28.29,
+    "sst_anomaly": 1.0
+  },
+  {
+    "season": "JAS",
+    "year": 2023,
+    "sst_total": 28.21,
+    "sst_anomaly": 1.25
+  },
+  {
+    "season": "ASO",
+    "year": 2023,
+    "sst_total": 28.26,
+    "sst_anomaly": 1.5
+  },
+  {
+    "season": "SON",
+    "year": 2023,
+    "sst_total": 28.45,
+    "sst_anomaly": 1.74
+  },
+  {
+    "season": "OND",
+    "year": 2023,
+    "sst_total": 28.55,
+    "sst_anomaly": 1.9
+  },
+  {
+    "season": "NDJ",
+    "year": 2023,
+    "sst_total": 28.55,
+    "sst_anomaly": 1.99
+  },
+  {
+    "season": "DJF",
+    "year": 2024,
+    "sst_total": 28.38,
+    "sst_anomaly": 1.84
+  },
+  {
+    "season": "JFM",
+    "year": 2024,
+    "sst_total": 28.3,
+    "sst_anomaly": 1.53
+  },
+  {
+    "season": "FMA",
+    "year": 2024,
+    "sst_total": 28.4,
+    "sst_anomaly": 1.18
+  },
+  {
+    "season": "MAM",
+    "year": 2024,
+    "sst_total": 28.4,
+    "sst_anomaly": 0.77
+  },
+  {
+    "season": "AMJ",
+    "year": 2024,
+    "sst_total": 28.23,
+    "sst_anomaly": 0.43
+  },
+  {
+    "season": "MJJ",
+    "year": 2024,
+    "sst_total": 27.8,
+    "sst_anomaly": 0.18
+  },
+  {
+    "season": "JJA",
+    "year": 2024,
+    "sst_total": 27.35,
+    "sst_anomaly": 0.06
+  },
+  {
+    "season": "JAS",
+    "year": 2024,
+    "sst_total": 26.92,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "ASO",
+    "year": 2024,
+    "sst_total": 26.64,
+    "sst_anomaly": -0.12
+  },
+  {
+    "season": "SON",
+    "year": 2024,
+    "sst_total": 26.52,
+    "sst_anomaly": -0.19
+  },
+  {
+    "season": "OND",
+    "year": 2024,
+    "sst_total": 26.35,
+    "sst_anomaly": -0.29
+  },
+  {
+    "season": "NDJ",
+    "year": 2024,
+    "sst_total": 26.13,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "DJF",
+    "year": 2025,
+    "sst_total": 26.09,
+    "sst_anomaly": -0.46
+  },
+  {
+    "season": "JFM",
+    "year": 2025,
+    "sst_total": 26.56,
+    "sst_anomaly": -0.22
+  },
+  {
+    "season": "FMA",
+    "year": 2025,
+    "sst_total": 27.15,
+    "sst_anomaly": -0.08
+  },
+  {
+    "season": "MAM",
+    "year": 2025,
+    "sst_total": 27.65,
+    "sst_anomaly": 0.02
+  },
+  {
+    "season": "AMJ",
+    "year": 2025,
+    "sst_total": 27.76,
+    "sst_anomaly": -0.04
+  },
+  {
+    "season": "MJJ",
+    "year": 2025,
+    "sst_total": 27.61,
+    "sst_anomaly": -0.02
+  },
+  {
+    "season": "JJA",
+    "year": 2025,
+    "sst_total": 27.18,
+    "sst_anomaly": -0.11
+  },
+  {
+    "season": "JAS",
+    "year": 2025,
+    "sst_total": 26.7,
+    "sst_anomaly": -0.26
+  },
+  {
+    "season": "ASO",
+    "year": 2025,
+    "sst_total": 26.33,
+    "sst_anomaly": -0.43
+  },
+  {
+    "season": "SON",
+    "year": 2025,
+    "sst_total": 26.14,
+    "sst_anomaly": -0.57
+  },
+  {
+    "season": "OND",
+    "year": 2025,
+    "sst_total": 26.04,
+    "sst_anomaly": -0.61
+  },
+  {
+    "season": "NDJ",
+    "year": 2025,
+    "sst_total": 25.96,
+    "sst_anomaly": -0.6
+  },
+  {
+    "season": "DJF",
+    "year": 2026,
+    "sst_total": 26.15,
+    "sst_anomaly": -0.39
+  },
+  {
+    "season": "JFM",
+    "year": 2026,
+    "sst_total": 26.57,
+    "sst_anomaly": -0.21
+  },
+  {
+    "season": "FMA",
+    "year": 2026,
+    "sst_total": 27.34,
+    "sst_anomaly": 0.11
+  },
+  {
+    "season": "MAM",
+    "year": 2026,
+    "sst_total": 28.09,
+    "sst_anomaly": 0.46
+  },
+  {
+    "season": "AMJ",
+    "year": 2026,
+    "sst_total": 28.74,
+    "sst_anomaly": 0.95
+  },
+  {
+    "season": "MJJ",
+    "year": 2026,
+    "sst_total": 29.02,
+    "sst_anomaly": 1.39
+  },
+  {
+    "season": "JJA",
+    "year": 2026,
+    "sst_total": 29.09,
+    "sst_anomaly": 1.8
+  }
+]

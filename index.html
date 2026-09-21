@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seattle Sunshine Trends & Climatology (1950–2026)</title>
+  <meta name="description" content="Is Seattle getting sunnier? 76-year empirical analysis of ERA5 reanalysis and NOAA ONI data testing meteorological sunny day definitions, trends, and El Niño.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Chart.js Core -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  
+  <!-- Embedded Data Preloader (Offline & CORS-free fallback) -->
+  <script src="sunshine_trends.js"></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="header-icon">☀️</div>
+        <div>
+          <h1>Seattle Sunshine Trends (1950–2026)</h1>
+          <p class="subtitle">A 76-year climatological investigation: standard meteorological definitions of "sunny days", multi-decadal trends, and the 2026 Super El Niño vs. long-term warming.</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="badge badge-gold">✨ 28,022 Days of ERA5 Data</span>
+        <span class="badge badge-coral">🔥 NOAA ONI ENSO Integrated</span>
+        <span class="badge badge-blue">📍 Seattle, WA (47.6°N)</span>
+      </div>
+    </header>
+
+    <!-- Top Key Metrics -->
+    <section class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-icon">📈</div>
+        <div class="metric-data">
+          <span class="metric-label">Secular Sunshine Trend</span>
+          <span class="metric-value" id="val-trend-slope">-13.4 hrs/dec</span>
+          <span class="metric-sub" id="val-trend-sig">p = 0.107 (No Statistically Significant Trend)</span>
+        </div>
+      </div>
+      <div class="metric-card card-sky">
+        <div class="metric-icon">🌤️</div>
+        <div class="metric-data">
+          <span class="metric-label">Clear vs. Sun-Break Days</span>
+          <span class="metric-value" id="val-clear-ratio">62 vs. 173 Days</span>
+          <span class="metric-sub">Strict Clear (≤30%) vs. Any Sun (≤70%)</span>
+        </div>
+      </div>
+      <div class="metric-card card-emerald">
+        <div class="metric-icon">🌧️</div>
+        <div class="metric-data">
+          <span class="metric-label">Rain vs. Cloud Decoupling</span>
+          <span class="metric-value" id="val-summer-growth">-16.6 in Rain</span>
+          <span class="metric-sub">Seattle is drier, but cloud cover persists</span>
+        </div>
+      </div>
+      <div class="metric-card card-coral">
+        <div class="metric-icon">🌊</div>
+        <div class="metric-data">
+          <span class="metric-label">ENSO Sunshine Spread</span>
+          <span class="metric-value" id="val-enso-boost">+97.2 hrs</span>
+          <span class="metric-sub">Strong El Niño (3,093h) vs. La Niña (2,996h)</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Toolbar: Metric & Threshold Switcher -->
+    <section class="toolbar-card">
+      <div class="toolbar-group">
+        <span class="toolbar-label">Operational Definition:</span>
+        <div class="btn-group" id="metric-selector">
+          <button class="btn-tab active" data-metric="total_sun_hours">Total Sun Hours</button>
+          <button class="btn-tab" data-metric="clear_days">Strict Clear (≤30%)</button>
+          <button class="btn-tab" data-metric="any_sun_days">Any Sun (Clear+Partly)</button>
+          <button class="btn-tab" data-metric="half_sunny_days">Majority Sun (≥50%)</button>
+          <button class="btn-tab" data-metric="glorious_days">Glorious (≥70% + Dry)</button>
+          <button class="btn-tab" data-metric="total_rad_gj">Solar Energy (GJ/m²)</button>
+        </div>
+      </div>
+      <div class="toolbar-group">
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-trendline" checked>
+          <span class="slider"></span>
+          <span>Sen's Trendline</span>
+        </label>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-rolling" checked>
+          <span class="slider"></span>
+          <span>10-Yr Rolling Mean</span>
+        </label>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-enso-colors" checked>
+          <span class="slider"></span>
+          <span>Color by ENSO Phase</span>
+        </label>
+      </div>
+    </section>
+
+    <!-- Chart 1: The Multi-Decadal Time Series -->
+    <section class="card">
+      <div class="chart-header">
+        <div>
+          <h2 id="main-chart-title">Annual Sunshine Hours in Seattle (1950–2026)</h2>
+          <p class="chart-desc" id="main-chart-desc">
+            Each point represents one calendar year. Hover to inspect observed sunshine hours, clear day counts, and that year's ENSO climate state. The solid emerald line depicts the robust non-parametric Sen's Slope.
+          </p>
+        </div>
+      </div>
+      <div class="chart-wrapper">
+        <canvas id="main-trend-chart"></canvas>
+      </div>
+      <div class="chart-legend-strip">
+        <div class="legend-item"><span class="legend-dot dot-super-el-nino"></span> Super El Niño (Peak ONI ≥ +2.0°C)</div>
+        <div class="legend-item"><span class="legend-dot dot-el-nino"></span> El Niño (ONI ≥ +0.5°C)</div>
+        <div class="legend-item"><span class="legend-dot dot-neutral"></span> Neutral ENSO</div>
+        <div class="legend-item"><span class="legend-dot dot-la-nina"></span> La Niña (ONI ≤ -0.5°C)</div>
+        <div class="legend-item"><span class="legend-dot dot-trend"></span> Sen's Slope Trendline</div>
+      </div>
+    </section>
+
+    <!-- 2-Column Grid: Threshold Comparison & Seasonal Breakdown -->
+    <div class="grid-2col">
+      <!-- Chart 2: Definition Sensitivity Matrix -->
+      <section class="card">
+        <div class="chart-header">
+          <div>
+            <h2>How Definitions Change the Story</h2>
+            <p class="chart-desc">
+              Decadal average days per year across 4 standard meteorological thresholds. Notice that "Any Sun" days consistently outnumber strict "Clear" days by almost 3:1.
+            </p>
+          </div>
+        </div>
+        <div class="chart-wrapper">
+          <canvas id="threshold-comparison-chart"></canvas>
+        </div>
+      </section>
+
+      <!-- Chart 3: Seasonal Shift (Summer vs. Winter) -->
+      <section class="card">
+        <div class="chart-header">
+          <div>
+            <h2>Seasonal Breakdown across Decades</h2>
+            <p class="chart-desc">
+              Tracking sunshine totals across Summer, Spring, Autumn, and Winter. Winter sunshine remains low and steady (~160 hrs), while Summer provides the bulk of annual sun (~1,200 hrs).
+            </p>
+          </div>
+        </div>
+        <div class="chart-wrapper">
+          <canvas id="seasonal-shift-chart"></canvas>
+        </div>
+      </section>
+    </div>
+
+    <!-- Chart 4: ENSO De-Aliasing & Attribution -->
+    <section class="card">
+      <div class="chart-header">
+        <div>
+          <h2>Disentangling the 2026 Super El Niño vs. Secular Baseline</h2>
+          <p class="chart-desc">
+            Scatter plot of Winter Oceanic Niño Index (ONI) vs. Annual Sunshine Hours. El Niño winters favor high-pressure ridging and sunny breaks in the Pacific Northwest, producing interannual swings around the stable long-term baseline.
+          </p>
+        </div>
+      </div>
+      <div class="chart-wrapper">
+        <canvas id="enso-scatter-chart"></canvas>
+      </div>
+    </section>
+
+    <!-- Decadal Summary Table -->
+    <section class="card">
+      <div class="chart-header">
+        <div>
+          <h2>Seattle Sunshine Climatology by Decade (1950–2025)</h2>
+          <p class="chart-desc">
+            Decadal averages demonstrating the long-term stability of sunshine alongside declining precipitation.
+          </p>
+        </div>
+      </div>
+      <div class="table-responsive">
+        <table class="styled-table" id="decadal-table">
+          <thead>
+            <tr>
+              <th>Decade</th>
+              <th>Avg Sun Hours</th>
+              <th>Strict Clear Days</th>
+              <th>Any Sun Days</th>
+              <th>Majority Sun (≥50%)</th>
+              <th>Glorious Days</th>
+              <th>Cloudy Days</th>
+              <th>Annual Rain</th>
+            </tr>
+          </thead>
+          <tbody id="decadal-table-body">
+            <!-- Populated dynamically by app.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Scientific Takeaways & Climatological Explanations -->
+    <section class="analysis-grid">
+      <div class="insight-box">
+        <h3>🔍 1. Is Seattle Getting Sunnier?</h3>
+        <p>
+          <strong>No, the data does not show a statistically significant increase in sun.</strong> Non-parametric Mann-Kendall testing reveals a flat-to-slightly negative trend in annual sunshine hours since 1950 (<span class="stat-pill" id="stat-mk-p">p = 0.107</span>, Sen's slope: <span class="stat-pill" id="stat-slope-text">-13.4 hrs/decade</span>). Strict Clear days have averaged an unmoving <strong>~61–64 days per decade</strong> for 76 years.
+        </p>
+      </div>
+      <div class="insight-box">
+        <h3>⚖️ 2. The Definition Dilemma</h3>
+        <p>
+          If you define a sunny day as <strong>NOAA Clear</strong> (&le;30% cloud cover), Seattle averages only <strong>~62 days/year</strong>. But if you include <strong>partly cloudy days with sun breaks</strong> (&le;70% cloud cover), the count jumps to <strong>~173 days/year</strong> (nearly half the calendar). Both definitions show remarkable multi-decadal stability.
+        </p>
+      </div>
+      <div class="insight-box">
+        <h3>🌧️ 3. Less Rain &ne; More Sun (The Gray Cloud Decoupling)</h3>
+        <p>
+          While annual rainfall in Seattle has trended downward from <strong>~61.5 inches in the 1950s</strong> to <strong>~44.9 inches in the 2020s</strong>, cloud cover has <em>not</em> decreased proportionately. Seattle frequently experiences dry overcast conditions: marine stratus layers and cool low-level inversions keep skies gray even when storms drop less rain.
+        </p>
+      </div>
+      <div class="insight-box">
+        <h3>🌊 4. The 2026 Super El Niño Impact</h3>
+        <p>
+          El Niño modulates Seattle weather on a 2–7 year cycle. Strong El Niño years average <strong>3,093 hours</strong> of sunshine vs. <strong>2,996 hours</strong> during Strong La Niña (a spread of ~97 hours). The 2026 Super El Niño gave Seattle intermittent sunny winter breaks, but this is a cyclical oscillation rather than a permanent climate trend.
+        </p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Data sources: <strong>ECMWF ERA5 Reanalysis via Open-Meteo</strong> (1950–2026) & <strong>NOAA Climate Prediction Center (CPC) ONI</strong>.</p>
+      <p>Seattle Weather Climatology Series • Part of the Seattle Weather Umbrella Project</p>
+    </footer>
+  </div>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
