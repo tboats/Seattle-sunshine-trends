@@ -1,0 +1,43 @@
+name: Daily Seattle Sunshine & Climatology Refresh
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (11:00 PM PDT / 10:00 PM PST)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual 1-click trigger from the GitHub Actions tab anytime
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-sunshine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch Latest Daily Observations & NOAA ONI
+        run: |
+          python scripts/fetch_sunshine_data.py
+
+      - name: Compute Climatological Trends & De-Aliasing
+        run: |
+          python scripts/analyze_sunshine_trends.py
+
+      - name: Commit and Push Updated Dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw_weather_1950_2026.json data/raw_oni_1950_2026.json data/sunshine_trends.json sunshine_trends.js public/sunshine_trends.js
+          if git diff --staged --quiet; then
+            echo "No new sunshine data changes to commit."
+          else
+            git commit -m "data: automated daily Seattle sunshine refresh [skip ci]"
+            git push
+          fi
