@@ -5512,5 +5512,11 @@
     "year": 2026,
     "sst_total": 29.09,
     "sst_anomaly": 1.8
+  },
+  {
+    "season": "JAS",
+    "year": 2026,
+    "sst_total": 29.12,
+    "sst_anomaly": 2.16
   }
 ]
