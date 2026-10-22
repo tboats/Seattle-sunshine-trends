@@ -4,8 +4,8 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-10-21T11:35:31.861537",
-    "total_days_analyzed": 28053
+    "generated_at": "2026-10-22T11:35:23.366413",
+    "total_days_analyzed": 28054
   },
   "trends": {
     "total_sun_hours": {
@@ -2306,24 +2306,24 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     },
     {
       "year": 2026,
-      "days_count": 294,
+      "days_count": 295,
       "is_complete_year": false,
-      "total_sun_hours": 2584.4,
-      "avg_sun_hours_per_day": 8.79,
-      "avg_sun_pct_daylight": 65.5,
+      "total_sun_hours": 2586.1,
+      "avg_sun_hours_per_day": 8.77,
+      "avg_sun_pct_daylight": 65.3,
       "avg_cloud_pct": 58.4,
-      "total_rad_gj": 4.41,
+      "total_rad_gj": 4.42,
       "total_precip_in": 25.16,
-      "avg_tmax_f": 62.8,
+      "avg_tmax_f": 62.7,
       "clear_days": 65,
       "partly_cloudy_days": 110,
-      "cloudy_days": 119,
+      "cloudy_days": 120,
       "any_sun_days": 175,
-      "sun_break_days": 260,
+      "sun_break_days": 261,
       "half_sunny_days": 212,
       "mostly_sunny_days": 164,
       "glorious_days": 140,
-      "dry_days": 197,
+      "dry_days": 198,
       "oni_annual_avg": 0.78,
       "oni_winter_djf": -0.39,
       "enso_phase": "Super El Ni\u00f1o"
@@ -6923,18 +6923,18 @@ window.SEATTLE_SUNSHINE_TRENDS = {
   ],
   "year_2026_analysis": {
     "year": 2026,
-    "days_recorded": 294,
+    "days_recorded": 295,
     "start_date": "2026-01-01",
-    "end_date": "2026-10-21",
-    "sun_hours_ytd": 2584.4,
+    "end_date": "2026-10-22",
+    "sun_hours_ytd": 2586.1,
     "clear_days_ytd": 65,
     "any_sun_days_ytd": 175,
     "precip_in_ytd": 25.16,
     "oni_djf": -0.39,
     "oni_latest": 1.8,
     "historical_avg_sun_thru_day_of_year": null,
-    "historical_avg_sun_ytd": 2731.6,
-    "anomaly_hours_ytd": -147.2,
-    "anomaly_pct_ytd": -5.4
+    "historical_avg_sun_ytd": 2737.6,
+    "anomaly_hours_ytd": -151.5,
+    "anomaly_pct_ytd": -5.5
   }
 };
