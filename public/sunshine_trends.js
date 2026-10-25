@@ -4,8 +4,8 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-10-24T10:43:48.011386",
-    "total_days_analyzed": 28056
+    "generated_at": "2026-10-25T11:08:52.226183",
+    "total_days_analyzed": 28057
   },
   "trends": {
     "total_sun_hours": {
@@ -2306,18 +2306,18 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     },
     {
       "year": 2026,
-      "days_count": 297,
+      "days_count": 298,
       "is_complete_year": false,
-      "total_sun_hours": 2598.9,
-      "avg_sun_hours_per_day": 8.75,
-      "avg_sun_pct_daylight": 65.3,
-      "avg_cloud_pct": 58.3,
+      "total_sun_hours": 2598.4,
+      "avg_sun_hours_per_day": 8.72,
+      "avg_sun_pct_daylight": 65.1,
+      "avg_cloud_pct": 58.4,
       "total_rad_gj": 4.44,
-      "total_precip_in": 25.16,
-      "avg_tmax_f": 62.7,
+      "total_precip_in": 25.99,
+      "avg_tmax_f": 62.6,
       "clear_days": 66,
       "partly_cloudy_days": 111,
-      "cloudy_days": 120,
+      "cloudy_days": 121,
       "any_sun_days": 177,
       "sun_break_days": 263,
       "half_sunny_days": 213,
@@ -6923,18 +6923,18 @@ window.SEATTLE_SUNSHINE_TRENDS = {
   ],
   "year_2026_analysis": {
     "year": 2026,
-    "days_recorded": 297,
+    "days_recorded": 298,
     "start_date": "2026-01-01",
-    "end_date": "2026-10-24",
-    "sun_hours_ytd": 2598.9,
+    "end_date": "2026-10-25",
+    "sun_hours_ytd": 2598.4,
     "clear_days_ytd": 66,
     "any_sun_days_ytd": 177,
-    "precip_in_ytd": 25.16,
+    "precip_in_ytd": 25.99,
     "oni_djf": -0.39,
     "oni_latest": 1.8,
     "historical_avg_sun_thru_day_of_year": null,
-    "historical_avg_sun_ytd": 2751.4,
-    "anomaly_hours_ytd": -152.5,
-    "anomaly_pct_ytd": -5.5
+    "historical_avg_sun_ytd": 2757.3,
+    "anomaly_hours_ytd": -158.9,
+    "anomaly_pct_ytd": -5.8
   }
 };
