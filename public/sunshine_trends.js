@@ -4,8 +4,8 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-10-29T12:45:48.292380",
-    "total_days_analyzed": 28061
+    "generated_at": "2026-10-30T12:37:25.853791",
+    "total_days_analyzed": 28062
   },
   "trends": {
     "total_sun_hours": {
@@ -2306,24 +2306,24 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     },
     {
       "year": 2026,
-      "days_count": 302,
+      "days_count": 303,
       "is_complete_year": false,
-      "total_sun_hours": 2609.0,
-      "avg_sun_hours_per_day": 8.64,
-      "avg_sun_pct_daylight": 64.6,
+      "total_sun_hours": 2610.4,
+      "avg_sun_hours_per_day": 8.62,
+      "avg_sun_pct_daylight": 64.4,
       "avg_cloud_pct": 58.7,
-      "total_rad_gj": 4.46,
-      "total_precip_in": 25.47,
+      "total_rad_gj": 4.47,
+      "total_precip_in": 25.55,
       "avg_tmax_f": 62.5,
       "clear_days": 66,
-      "partly_cloudy_days": 111,
+      "partly_cloudy_days": 112,
       "cloudy_days": 125,
-      "any_sun_days": 177,
+      "any_sun_days": 178,
       "sun_break_days": 268,
       "half_sunny_days": 213,
       "mostly_sunny_days": 164,
       "glorious_days": 140,
-      "dry_days": 201,
+      "dry_days": 202,
       "oni_annual_avg": 0.78,
       "oni_winter_djf": -0.39,
       "enso_phase": "Super El Ni\u00f1o"
@@ -6923,18 +6923,18 @@ window.SEATTLE_SUNSHINE_TRENDS = {
   ],
   "year_2026_analysis": {
     "year": 2026,
-    "days_recorded": 302,
+    "days_recorded": 303,
     "start_date": "2026-01-01",
-    "end_date": "2026-10-29",
-    "sun_hours_ytd": 2609.0,
+    "end_date": "2026-10-30",
+    "sun_hours_ytd": 2610.4,
     "clear_days_ytd": 66,
-    "any_sun_days_ytd": 177,
-    "precip_in_ytd": 25.47,
+    "any_sun_days_ytd": 178,
+    "precip_in_ytd": 25.55,
     "oni_djf": -0.39,
     "oni_latest": 1.8,
     "historical_avg_sun_thru_day_of_year": null,
-    "historical_avg_sun_ytd": 2782.7,
-    "anomaly_hours_ytd": -173.7,
-    "anomaly_pct_ytd": -6.2
+    "historical_avg_sun_ytd": 2788.6,
+    "anomaly_hours_ytd": -178.2,
+    "anomaly_pct_ytd": -6.4
   }
 };
