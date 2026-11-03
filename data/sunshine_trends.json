@@ -4,8 +4,8 @@
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-11-02T15:28:40.481956",
-    "total_days_analyzed": 28065
+    "generated_at": "2026-11-03T13:58:49.863447",
+    "total_days_analyzed": 28066
   },
   "trends": {
     "total_sun_hours": {
@@ -2306,24 +2306,24 @@
     },
     {
       "year": 2026,
-      "days_count": 306,
+      "days_count": 307,
       "is_complete_year": false,
-      "total_sun_hours": 2619.0,
-      "avg_sun_hours_per_day": 8.56,
-      "avg_sun_pct_daylight": 64.0,
+      "total_sun_hours": 2625.8,
+      "avg_sun_hours_per_day": 8.55,
+      "avg_sun_pct_daylight": 64.1,
       "avg_cloud_pct": 58.9,
       "total_rad_gj": 4.49,
       "total_precip_in": 25.76,
-      "avg_tmax_f": 62.4,
+      "avg_tmax_f": 62.3,
       "clear_days": 66,
       "partly_cloudy_days": 113,
-      "cloudy_days": 127,
+      "cloudy_days": 128,
       "any_sun_days": 179,
-      "sun_break_days": 271,
-      "half_sunny_days": 213,
+      "sun_break_days": 272,
+      "half_sunny_days": 214,
       "mostly_sunny_days": 164,
       "glorious_days": 140,
-      "dry_days": 205,
+      "dry_days": 206,
       "oni_annual_avg": 0.78,
       "oni_winter_djf": -0.39,
       "enso_phase": "Super El Ni\u00f1o"
@@ -6923,18 +6923,18 @@
   ],
   "year_2026_analysis": {
     "year": 2026,
-    "days_recorded": 306,
+    "days_recorded": 307,
     "start_date": "2026-01-01",
-    "end_date": "2026-11-02",
-    "sun_hours_ytd": 2619.0,
+    "end_date": "2026-11-03",
+    "sun_hours_ytd": 2625.8,
     "clear_days_ytd": 66,
     "any_sun_days_ytd": 179,
     "precip_in_ytd": 25.76,
     "oni_djf": -0.39,
     "oni_latest": 1.8,
     "historical_avg_sun_thru_day_of_year": null,
-    "historical_avg_sun_ytd": 2806.5,
-    "anomaly_hours_ytd": -187.5,
-    "anomaly_pct_ytd": -6.7
+    "historical_avg_sun_ytd": 2811.6,
+    "anomaly_hours_ytd": -185.9,
+    "anomaly_pct_ytd": -6.6
   }
 }
