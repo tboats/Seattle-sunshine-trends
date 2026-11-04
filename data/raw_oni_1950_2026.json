@@ -5518,5 +5518,11 @@
     "year": 2026,
     "sst_total": 29.12,
     "sst_anomaly": 2.16
+  },
+  {
+    "season": "ASO",
+    "year": 2026,
+    "sst_total": 29.23,
+    "sst_anomaly": 2.46
   }
 ]
