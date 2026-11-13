@@ -4,7 +4,7 @@ window.SEATTLE_SUNSHINE_TRENDS = {
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-11-12T14:59:29.372689",
+    "generated_at": "2026-11-13T14:25:28.920477",
     "total_days_analyzed": 28075
   },
   "trends": {
