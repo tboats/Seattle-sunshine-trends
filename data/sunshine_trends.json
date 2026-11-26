@@ -4,8 +4,8 @@
     "latitude": 47.6062,
     "longitude": -122.3321,
     "period": "1950-2026",
-    "generated_at": "2026-11-25T17:02:12.687962",
-    "total_days_analyzed": 28087
+    "generated_at": "2026-11-26T16:43:03.171603",
+    "total_days_analyzed": 28089
   },
   "trends": {
     "total_sun_hours": {
@@ -2306,20 +2306,20 @@
     },
     {
       "year": 2026,
-      "days_count": 328,
+      "days_count": 330,
       "is_complete_year": false,
-      "total_sun_hours": 2694.9,
-      "avg_sun_hours_per_day": 8.22,
-      "avg_sun_pct_daylight": 62.2,
-      "avg_cloud_pct": 59.9,
-      "total_rad_gj": 4.59,
-      "total_precip_in": 27.45,
-      "avg_tmax_f": 61.8,
+      "total_sun_hours": 2699.2,
+      "avg_sun_hours_per_day": 8.18,
+      "avg_sun_pct_daylight": 62.0,
+      "avg_cloud_pct": 60.0,
+      "total_rad_gj": 4.6,
+      "total_precip_in": 28.58,
+      "avg_tmax_f": 61.7,
       "clear_days": 68,
       "partly_cloudy_days": 121,
-      "cloudy_days": 139,
+      "cloudy_days": 141,
       "any_sun_days": 189,
-      "sun_break_days": 287,
+      "sun_break_days": 290,
       "half_sunny_days": 221,
       "mostly_sunny_days": 169,
       "glorious_days": 143,
@@ -6923,33 +6923,33 @@
     {
       "year": 2026,
       "season": "Autumn",
-      "days_count": 85,
-      "total_sun_hours": 475.4,
-      "avg_sun_hours_per_day": 5.59,
+      "days_count": 87,
+      "total_sun_hours": 479.7,
+      "avg_sun_hours_per_day": 5.51,
       "clear_days": 16,
       "any_sun_days": 55,
-      "cloudy_days": 30,
+      "cloudy_days": 32,
       "half_sunny_days": 44,
       "glorious_days": 24,
       "dry_days": 60,
-      "avg_cloud_pct": 58.8,
-      "total_rad_gj": 0.8
+      "avg_cloud_pct": 59.4,
+      "total_rad_gj": 0.81
     }
   ],
   "year_2026_analysis": {
     "year": 2026,
-    "days_recorded": 328,
+    "days_recorded": 330,
     "start_date": "2026-01-01",
-    "end_date": "2026-11-24",
-    "sun_hours_ytd": 2694.9,
+    "end_date": "2026-11-26",
+    "sun_hours_ytd": 2699.2,
     "clear_days_ytd": 68,
     "any_sun_days_ytd": 189,
-    "precip_in_ytd": 27.45,
+    "precip_in_ytd": 28.58,
     "oni_djf": -0.39,
     "oni_latest": 1.8,
     "historical_avg_sun_thru_day_of_year": null,
-    "historical_avg_sun_ytd": 2913.2,
-    "anomaly_hours_ytd": -218.4,
-    "anomaly_pct_ytd": -7.5
+    "historical_avg_sun_ytd": 2921.6,
+    "anomaly_hours_ytd": -222.4,
+    "anomaly_pct_ytd": -7.6
   }
 }
